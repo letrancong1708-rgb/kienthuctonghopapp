@@ -151,7 +151,7 @@ $("tg").onclick=function(){var r=document.documentElement,d=r.getAttribute("data
 function opts(){$("sel").innerHTML=C.map(function(c,ci){return '<optgroup label="'+c[0]+' – '+c[1]+'">'+L.map(function(l,i){return l[0]==ci?'<option value="'+i+'">'+l[1]+'. '+l[2]+'</option>':''}).join('')+'</optgroup>'}).join('')}
 // Đồng bộ sách online và lưu bản đã tải vào IndexedDB để đọc offline.
 // Nếu đóng gói bằng Capacitor/GitHub Actions, điền URL website HTTPS ở dòng dưới.
-var REMOTE_BASE_URL = "https://YOUR-WEBSITE-DOMAIN/";
+var REMOTE_BASE_URL = "https://tonghopkienthuc.vercel.app/";
 var DB_NAME="kienthuc-tonghop-cache", DB_VERSION=1;
 function remoteBase(){
   if(REMOTE_BASE_URL && REMOTE_BASE_URL.indexOf("YOUR-WEBSITE-DOMAIN")===-1) return REMOTE_BASE_URL.replace(/\/?$/,"/");
