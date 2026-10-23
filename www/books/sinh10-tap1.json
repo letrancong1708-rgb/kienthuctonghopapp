@@ -1,0 +1,1117 @@
+{
+  "id": "sinh10-tap1",
+  "title": "Sinh học 10 · Kết nối tri thức",
+  "sub": "Tóm tắt kiến thức theo SGK · các bài học và hoạt động thực hành",
+  "source": "SGK Sinh học 10 (Kết nối tri thức với cuộc sống) – PDF người dùng cung cấp",
+  "chapters": [
+    [
+      "Phần mở đầu",
+      "Giới thiệu Sinh học",
+      "#0ea5a0"
+    ],
+    [
+      "Phần I · Chương 1",
+      "Thành phần hoá học của tế bào",
+      "#ef6a5b"
+    ],
+    [
+      "Phần I · Chương 2",
+      "Cấu trúc tế bào",
+      "#e8920c"
+    ],
+    [
+      "Phần I · Chương 3",
+      "Chuyển hoá vật chất và năng lượng trong tế bào",
+      "#5b5ce6"
+    ],
+    [
+      "Phần I · Chương 4",
+      "Chu kì tế bào và phân bào",
+      "#e0489b"
+    ],
+    [
+      "Phần II · Chương 5",
+      "Sự đa dạng và phương pháp nghiên cứu vi sinh vật",
+      "#8b5cf6"
+    ],
+    [
+      "Phần II · Chương 6",
+      "Virus",
+      "#0ea5a0"
+    ]
+  ],
+  "lessons": [
+    [
+      0,
+      "Bài 1",
+      "Giới thiệu khái quát môn Sinh học",
+      5,
+      [
+        [
+          "d",
+          "Khái niệm và đối tượng",
+          [
+            "Sinh học là ngành khoa học nghiên cứu sự sống; đối tượng là sinh vật và các cấp độ tổ chức của thế giới sống."
+          ]
+        ],
+        [
+          "f",
+          "Mục tiêu và lĩnh vực",
+          [
+            "Tìm hiểu cấu trúc, vận hành các quá trình sống; gồm nghiên cứu cơ bản và nghiên cứu ứng dụng."
+          ]
+        ],
+        [
+          "f",
+          "Vai trò và nghề nghiệp",
+          [
+            "Sinh học liên quan đến y – dược, pháp y, nông – lâm – ngư nghiệp, bảo vệ môi trường và phát triển bền vững."
+          ]
+        ],
+        [
+          "d",
+          "Phạm vi nghiên cứu",
+          [
+            "Sinh học nghiên cứu sự sống ở nhiều cấp độ: phân tử, tế bào, cơ thể, quần thể, quần xã và hệ sinh thái. Các cấp độ có quan hệ chặt chẽ; hoạt động ở cấp thấp tạo nền tảng cho đặc điểm ở cấp cao."
+          ]
+        ],
+        [
+          "f",
+          "Nghiên cứu cơ bản và ứng dụng",
+          [
+            "Nghiên cứu cơ bản nhằm giải thích cấu trúc, chức năng, sự đa dạng và tiến hoá của sinh vật. Nghiên cứu ứng dụng sử dụng tri thức đó để giải quyết vấn đề thực tế; hai hướng thường hỗ trợ lẫn nhau."
+          ]
+        ],
+        [
+          "f",
+          "Sinh học và phát triển bền vững",
+          [
+            "Tri thức sinh học góp phần chăm sóc sức khoẻ, sản xuất thực phẩm, bảo tồn đa dạng sinh học, kiểm soát dịch bệnh và sử dụng hợp lí tài nguyên. Khi đánh giá ứng dụng cần cân nhắc hiệu quả, đạo đức, an toàn và tác động môi trường."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 2",
+      "Phương pháp nghiên cứu và học tập môn Sinh học",
+      12,
+      [
+        [
+          "d",
+          "Phương pháp nghiên cứu",
+          [
+            "Quan sát, thí nghiệm, làm việc trong phòng thí nghiệm, điều tra và xử lí dữ liệu."
+          ]
+        ],
+        [
+          "g",
+          "Kĩ năng học tập",
+          [
+            "Đặt câu hỏi, xây dựng giả thuyết, thiết kế nghiên cứu, thu thập và phân tích bằng chứng, trình bày kết quả."
+          ]
+        ],
+        [
+          "d",
+          "Tiến trình nghiên cứu",
+          [
+            "Bắt đầu từ quan sát và câu hỏi; tìm hiểu tài liệu; hình thành giả thuyết có thể kiểm tra; thiết kế phương pháp; thu thập dữ liệu; phân tích kết quả và rút kết luận. Kết luận cần dựa trên bằng chứng chứ không chỉ dựa vào dự đoán."
+          ]
+        ],
+        [
+          "f",
+          "Thí nghiệm và biến số",
+          [
+            "Trong thí nghiệm cần xác định biến độc lập, biến phụ thuộc và các yếu tố cần giữ ổn định. Đối chứng giúp nhận biết kết quả có phải do yếu tố đang kiểm tra hay không. Nên lặp lại phép đo để giảm sai số."
+          ]
+        ],
+        [
+          "n",
+          "An toàn và đạo đức",
+          [
+            "Dùng kính, hoá chất và dụng cụ đúng hướng dẫn; ghi dữ liệu trung thực; không tự ý nếm hoặc ngửi trực tiếp hoá chất/mẫu sinh học. Khi nghiên cứu sinh vật cần tôn trọng phúc lợi động vật và bảo vệ môi trường."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 3",
+      "Các cấp độ tổ chức của thế giới sống",
+      18,
+      [
+        [
+          "d",
+          "Các cấp tổ chức",
+          [
+            "Từ phân tử, bào quan, tế bào, mô, cơ quan, hệ cơ quan, cơ thể đến quần thể, quần xã và hệ sinh thái."
+          ]
+        ],
+        [
+          "f",
+          "Đặc điểm chung",
+          [
+            "Thế giới sống có tổ chức theo nguyên tắc thứ bậc, là hệ thống mở, có khả năng tự điều chỉnh và liên tục tiến hoá."
+          ]
+        ],
+        [
+          "d",
+          "Tính thứ bậc",
+          [
+            "Các cấp tổ chức sống gồm phân tử, bào quan, tế bào, mô, cơ quan, hệ cơ quan, cơ thể, quần thể, quần xã, hệ sinh thái và sinh quyển. Tế bào là đơn vị cấu trúc và chức năng cơ bản của sự sống."
+          ]
+        ],
+        [
+          "f",
+          "Đặc tính nổi trội",
+          [
+            "Khi các thành phần tương tác, hệ thống có thể xuất hiện đặc tính mà từng thành phần riêng lẻ không có. Ví dụ, hoạt động phối hợp của nhiều tế bào tạo nên chức năng của mô và cơ quan."
+          ]
+        ],
+        [
+          "f",
+          "Hệ mở và tự điều chỉnh",
+          [
+            "Sinh vật trao đổi vật chất, năng lượng và thông tin với môi trường. Các cơ chế điều hoà giúp duy trì trạng thái tương đối ổn định; tiến hoá làm xuất hiện sự thích nghi qua các thế hệ."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 4",
+      "Các nguyên tố hoá học và nước",
+      23,
+      [
+        [
+          "d",
+          "Nguyên tố hoá học",
+          [
+            "Các nguyên tố chủ yếu cấu tạo nên tế bào gồm C, H, O, N, P, S; carbon tạo bộ khung cho các phân tử hữu cơ."
+          ]
+        ],
+        [
+          "f",
+          "Vai trò của nước",
+          [
+            "Nước là dung môi, môi trường phản ứng, điều hoà nhiệt và góp phần duy trì cấu trúc tế bào."
+          ]
+        ],
+        [
+          "d",
+          "Nguyên tố đa lượng và vi lượng",
+          [
+            "C, H, O, N, P, S là những nguyên tố quan trọng trong cấu tạo các phân tử sinh học. Nguyên tố vi lượng tuy cần với lượng nhỏ nhưng vẫn thiết yếu, thường tham gia cấu tạo enzyme hoặc điều hoà hoạt động sinh lí."
+          ]
+        ],
+        [
+          "f",
+          "Tính chất của nước",
+          [
+            "Phân tử nước có tính phân cực và hình thành liên kết hydrogen. Nhờ đó nước hoà tan nhiều chất phân cực/ion, có nhiệt dung cao và góp phần ổn định nhiệt độ của cơ thể và môi trường sống."
+          ]
+        ],
+        [
+          "f",
+          "Ý nghĩa sinh học",
+          [
+            "Nước là môi trường cho phản ứng sinh hoá, tham gia trực tiếp một số phản ứng, vận chuyển chất và duy trì hình dạng tế bào. Thiếu nước làm giảm hoạt động trao đổi chất và ảnh hưởng nghiêm trọng đến sinh trưởng."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 5",
+      "Các phân tử sinh học",
+      28,
+      [
+        [
+          "d",
+          "Carbohydrate và lipid",
+          [
+            "Carbohydrate cung cấp/dự trữ năng lượng và cấu trúc; lipid dự trữ năng lượng, cấu tạo màng và tham gia điều hoà."
+          ]
+        ],
+        [
+          "f",
+          "Protein và nucleic acid",
+          [
+            "Protein gồm amino acid, có vai trò cấu trúc và xúc tác; DNA/RNA gồm nucleotide, lưu giữ và truyền đạt thông tin di truyền."
+          ]
+        ],
+        [
+          "d",
+          "Carbohydrate",
+          [
+            "Đường đơn là đơn phân của nhiều carbohydrate; đường đôi hình thành khi hai đường đơn liên kết; polysaccharide gồm nhiều đơn phân. Tinh bột và glycogen là dạng dự trữ, cellulose có vai trò cấu trúc thành tế bào thực vật."
+          ]
+        ],
+        [
+          "f",
+          "Lipid",
+          [
+            "Lipid không tan hoặc ít tan trong nước. Triglyceride là nguồn dự trữ năng lượng; phospholipid tạo lớp kép của màng sinh chất; steroid có thể tham gia cấu trúc màng và điều hoà hoạt động cơ thể."
+          ]
+        ],
+        [
+          "f",
+          "Protein",
+          [
+            "Protein được cấu tạo từ các amino acid nối với nhau bằng liên kết peptide. Trình tự amino acid quyết định cấu trúc không gian và ảnh hưởng chức năng; protein có thể làm enzyme, vận chuyển, thụ thể, kháng thể hoặc cấu trúc."
+          ]
+        ],
+        [
+          "f",
+          "DNA và RNA",
+          [
+            "Nucleotide gồm đường, nhóm phosphate và base nitrogen. DNA thường gồm hai mạch xoắn kép và lưu trữ thông tin di truyền; RNA tham gia biểu hiện thông tin, đặc biệt trong quá trình tổng hợp protein."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 6",
+      "Thực hành: Nhận biết một số phân tử sinh học",
+      38,
+      [
+        [
+          "g",
+          "Mục tiêu thực hành",
+          [
+            "Sử dụng thuốc thử và quan sát hiện tượng để nhận biết một số chất hữu cơ trong mẫu vật."
+          ]
+        ],
+        [
+          "n",
+          "Lưu ý",
+          [
+            "Ghi rõ mẫu, thuốc thử, hiện tượng và kết luận; tuân thủ an toàn phòng thí nghiệm."
+          ]
+        ],
+        [
+          "g",
+          "Nguyên tắc nhận biết",
+          [
+            "Một số thuốc thử tạo biến đổi màu đặc trưng khi phản ứng với chất cần tìm. Cần dùng mẫu đối chứng và so sánh màu quan sát với màu chuẩn để tránh kết luận chỉ dựa vào cảm tính."
+          ]
+        ],
+        [
+          "n",
+          "Ghi chép kết quả",
+          [
+            "Ghi tên mẫu, thuốc thử, cách tiến hành, màu sắc/hiện tượng và kết luận. Dùng lượng mẫu tương đương khi so sánh và tuân thủ hướng dẫn an toàn đối với thuốc thử."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 7",
+      "Tế bào nhân sơ",
+      44,
+      [
+        [
+          "d",
+          "Đặc điểm",
+          [
+            "Tế bào nhân sơ thường nhỏ, chưa có nhân hoàn chỉnh và không có bào quan có màng."
+          ]
+        ],
+        [
+          "f",
+          "Cấu trúc",
+          [
+            "Các thành phần thường gặp: màng sinh chất, tế bào chất, vùng nhân; có thể có thành tế bào, vỏ nhầy, roi và lông."
+          ]
+        ],
+        [
+          "d",
+          "Đặc trưng cấu trúc",
+          [
+            "Tế bào nhân sơ thường có kích thước nhỏ, chưa có nhân được bao bởi màng; DNA tập trung ở vùng nhân. Tế bào chất có ribosome, nơi tổng hợp protein, nhưng không có các bào quan có màng như ti thể."
+          ]
+        ],
+        [
+          "f",
+          "Lớp bao và cấu trúc phụ",
+          [
+            "Màng sinh chất điều tiết trao đổi chất; thành tế bào giúp định hình và bảo vệ. Một số loài có vỏ nhầy, roi giúp di chuyển hoặc lông giúp bám và trao đổi vật liệu di truyền. Không phải vi khuẩn nào cũng có đủ các cấu trúc này."
+          ]
+        ],
+        [
+          "f",
+          "Sinh sản và ý nghĩa",
+          [
+            "Nhiều vi khuẩn phân đôi: DNA nhân đôi, tế bào lớn lên rồi tách thành hai tế bào con. Tốc độ sinh sản có thể nhanh khi điều kiện thuận lợi, nên vi sinh vật vừa hữu ích trong sản xuất vừa có thể gây bệnh."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 8",
+      "Tế bào nhân thực",
+      49,
+      [
+        [
+          "d",
+          "Đặc điểm chung",
+          [
+            "Có nhân được bao bọc bởi màng nhân và hệ thống bào quan có màng."
+          ]
+        ],
+        [
+          "f",
+          "Bào quan",
+          [
+            "Nhân lưu giữ DNA; ribosome tổng hợp protein; lưới nội chất và Golgi chế biến/vận chuyển; ti thể tạo ATP; lục lạp quang hợp ở thực vật."
+          ]
+        ],
+        [
+          "d",
+          "Nhân và hệ thống nội màng",
+          [
+            "Nhân được màng kép bao bọc, chứa phần lớn DNA. Lưới nội chất hạt liên quan đến tổng hợp protein; lưới nội chất trơn tham gia tổng hợp lipid và khử độc; bộ máy Golgi biến đổi, đóng gói và phân phối sản phẩm."
+          ]
+        ],
+        [
+          "f",
+          "Bào quan chuyển hoá năng lượng",
+          [
+            "Ti thể thực hiện phần lớn quá trình hô hấp tế bào hiếu khí, tạo ATP. Lục lạp ở tế bào thực vật và tảo hấp thụ năng lượng ánh sáng để tổng hợp chất hữu cơ."
+          ]
+        ],
+        [
+          "f",
+          "Khung tế bào và khác biệt",
+          [
+            "Khung xương tế bào giúp duy trì hình dạng, vận chuyển nội bào và phân bào. Tế bào thực vật thường có thành cellulose, không bào lớn và lục lạp ở mô quang hợp; tế bào động vật thường không có thành tế bào và lục lạp."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 9",
+      "Thực hành: Quan sát tế bào",
+      61,
+      [
+        [
+          "g",
+          "Kĩ năng kính hiển vi",
+          [
+            "Chuẩn bị tiêu bản, điều chỉnh ánh sáng và lấy nét để quan sát tế bào."
+          ]
+        ],
+        [
+          "n",
+          "Báo cáo",
+          [
+            "Vẽ hình quan sát, chú thích cấu trúc nhận biết được và so sánh mẫu tế bào."
+          ]
+        ],
+        [
+          "g",
+          "Chuẩn bị tiêu bản",
+          [
+            "Mẫu cần mỏng, đặt trong giọt nước hoặc dung dịch thích hợp và đậy lamen tránh bọt khí. Có thể dùng thuốc nhuộm phù hợp để tăng độ tương phản nếu quy trình yêu cầu."
+          ]
+        ],
+        [
+          "f",
+          "Sử dụng kính hiển vi",
+          [
+            "Bắt đầu với vật kính có độ phóng đại nhỏ, điều chỉnh ánh sáng và lấy nét từ từ; sau khi thấy ảnh rõ mới chuyển sang độ phóng đại lớn. Không để vật kính chạm vào tiêu bản."
+          ]
+        ],
+        [
+          "n",
+          "Báo cáo quan sát",
+          [
+            "Vẽ những gì thực sự nhìn thấy, ghi độ phóng đại và chú thích cấu trúc nhận diện được. Phân biệt rõ cấu trúc quan sát trực tiếp với cấu trúc chỉ suy ra từ kiến thức."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 10",
+      "Trao đổi chất qua màng tế bào",
+      64,
+      [
+        [
+          "d",
+          "Vận chuyển thụ động",
+          [
+            "Chất di chuyển theo gradien nồng độ, không tiêu tốn năng lượng; gồm khuếch tán và thẩm thấu."
+          ]
+        ],
+        [
+          "f",
+          "Vận chuyển chủ động",
+          [
+            "Vận chuyển ngược gradien cần năng lượng và protein vận chuyển; nhập bào và xuất bào vận chuyển vật chất kích thước lớn."
+          ]
+        ],
+        [
+          "d",
+          "Màng sinh chất",
+          [
+            "Màng gồm lớp kép phospholipid và protein; tính thấm chọn lọc giúp tế bào kiểm soát chất đi vào, đi ra. Kích thước, điện tích, độ tan trong lipid và protein vận chuyển ảnh hưởng khả năng qua màng."
+          ]
+        ],
+        [
+          "f",
+          "Khuếch tán và thẩm thấu",
+          [
+            "Khuếch tán là sự di chuyển ròng của các phân tử theo gradien nồng độ. Thẩm thấu là sự di chuyển của nước qua màng bán thấm theo chênh lệch thế nước. Chất tan có thể đi qua kênh hoặc protein tải theo cơ chế hỗ trợ."
+          ]
+        ],
+        [
+          "f",
+          "Vận chuyển chủ động và vận chuyển bằng túi",
+          [
+            "Vận chuyển chủ động dùng năng lượng để đưa chất ngược gradien điện hoá. Nhập bào đưa vật chất vào trong túi màng; xuất bào đưa sản phẩm ra ngoài khi túi hoà màng sinh chất."
+          ]
+        ],
+        [
+          "n",
+          "Ảnh hưởng của môi trường",
+          [
+            "Trong môi trường ưu trương, nước thường rời tế bào; trong môi trường nhược trương, nước đi vào; môi trường đẳng trương có cân bằng dòng nước ròng. Kết quả phụ thuộc loại tế bào và độ thấm của màng."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 11",
+      "Thực hành: Thí nghiệm co và phản co nguyên sinh",
+      70,
+      [
+        [
+          "g",
+          "Nguyên tắc",
+          [
+            "Thay đổi môi trường ưu trương/nhược trương làm nước đi qua màng, gây co hoặc phản co nguyên sinh ở tế bào thực vật."
+          ]
+        ],
+        [
+          "g",
+          "Cơ sở hiện tượng",
+          [
+            "Khi tế bào thực vật đặt trong dung dịch ưu trương, nước đi ra làm khối nguyên sinh co lại và tách khỏi thành tế bào. Chuyển về môi trường nhược trương thích hợp, nước đi vào khiến khối nguyên sinh phục hồi."
+          ]
+        ],
+        [
+          "n",
+          "Yếu tố cần kiểm soát",
+          [
+            "Dùng mẫu có kích thước tương tự, quan sát trước và sau khi đổi dung dịch, giữ thời gian xử lí phù hợp. Ghi lại hình dạng tế bào và không kết luận nếu tiêu bản bị khô hoặc hỏng."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 12",
+      "Truyền tin tế bào",
+      73,
+      [
+        [
+          "d",
+          "Các bước truyền tin",
+          [
+            "Tế bào phát tín hiệu; tế bào đích tiếp nhận qua thụ thể; tín hiệu được chuyển tiếp và tạo đáp ứng."
+          ]
+        ],
+        [
+          "f",
+          "Ý nghĩa",
+          [
+            "Giúp tế bào phối hợp hoạt động, phản ứng với thay đổi môi trường và điều hoà các quá trình sống."
+          ]
+        ],
+        [
+          "d",
+          "Tiếp nhận tín hiệu",
+          [
+            "Tín hiệu có thể là phân tử hoá học hoặc tác nhân vật lí. Thụ thể nhận biết tín hiệu đặc hiệu; tế bào không có thụ thể thích hợp thường không đáp ứng theo cùng cách."
+          ]
+        ],
+        [
+          "f",
+          "Chuyển tiếp và đáp ứng",
+          [
+            "Sau khi thụ thể hoạt hoá, các phân tử trung gian truyền tin có thể khuếch đại tín hiệu và kích hoạt chuỗi phản ứng. Đáp ứng có thể là thay đổi hoạt tính enzyme, biểu hiện gene, chuyển động hoặc tiết chất."
+          ]
+        ],
+        [
+          "f",
+          "Điều hoà tín hiệu",
+          [
+            "Tín hiệu cần được kết thúc hoặc giảm cường độ để tế bào không đáp ứng kéo dài quá mức. Truyền tin giúp các tế bào phối hợp hoạt động trong phát triển, miễn dịch và duy trì cân bằng nội môi."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 13",
+      "Khái quát về chuyển hoá vật chất và năng lượng",
+      78,
+      [
+        [
+          "d",
+          "Chuyển hoá",
+          [
+            "Chuyển hoá gồm đồng hoá (tổng hợp, tiêu tốn năng lượng) và dị hoá (phân giải, giải phóng năng lượng)."
+          ]
+        ],
+        [
+          "f",
+          "ATP và enzyme",
+          [
+            "ATP là đồng tiền năng lượng của tế bào; enzyme là chất xúc tác sinh học giúp phản ứng diễn ra nhanh."
+          ]
+        ],
+        [
+          "d",
+          "Đồng hoá và dị hoá",
+          [
+            "Đồng hoá tổng hợp phân tử phức tạp từ chất đơn giản và thường cần năng lượng; dị hoá phân giải chất, giải phóng năng lượng có thể được tích luỹ trong ATP hoặc chất mang electron. Hai nhóm quá trình liên hệ mật thiết."
+          ]
+        ],
+        [
+          "f",
+          "ATP và enzyme",
+          [
+            "ATP là chất trung gian truyền năng lượng phổ biến trong tế bào. Enzyme làm giảm năng lượng hoạt hoá, có tính đặc hiệu tương đối với cơ chất và không bị tiêu hao vĩnh viễn sau phản ứng."
+          ]
+        ],
+        [
+          "f",
+          "Yếu tố ảnh hưởng",
+          [
+            "Nhiệt độ, pH, nồng độ cơ chất, enzyme và chất ức chế đều có thể ảnh hưởng tốc độ phản ứng. Điều kiện vượt quá giới hạn thích hợp có thể làm thay đổi cấu trúc enzyme và giảm hoạt tính."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 14",
+      "Phân giải và tổng hợp các chất trong tế bào",
+      85,
+      [
+        [
+          "d",
+          "Phân giải",
+          [
+            "Phân giải các chất hữu cơ giải phóng năng lượng, thường được tích luỹ một phần trong ATP."
+          ]
+        ],
+        [
+          "f",
+          "Tổng hợp",
+          [
+            "Tế bào sử dụng năng lượng và nguyên liệu để tổng hợp các phân tử cần thiết cho sinh trưởng và hoạt động."
+          ]
+        ],
+        [
+          "d",
+          "Phân giải chất hữu cơ",
+          [
+            "Hô hấp tế bào chuyển hoá năng lượng hoá học trong chất hữu cơ thành ATP. Đường phân diễn ra ở tế bào chất; các bước tiếp theo của hô hấp hiếu khí gắn với ti thể ở tế bào nhân thực."
+          ]
+        ],
+        [
+          "f",
+          "Hô hấp và lên men",
+          [
+            "Hô hấp hiếu khí sử dụng oxygen làm chất nhận electron cuối cùng và thường thu được nhiều ATP hơn. Lên men diễn ra khi không có chuỗi chuyền electron hô hấp hoạt động; sản phẩm có thể là acid lactic hoặc ethanol và CO₂."
+          ]
+        ],
+        [
+          "f",
+          "Tổng hợp chất",
+          [
+            "Quang hợp chuyển năng lượng ánh sáng thành năng lượng hoá học trong chất hữu cơ. Tế bào cũng tổng hợp protein, lipid, carbohydrate và nucleic acid từ các tiền chất phù hợp để tăng trưởng, sửa chữa và dự trữ."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Thực hành",
+      "Thí nghiệm ảnh hưởng của một số yếu tố đến hoạt tính enzyme amylase",
+      91,
+      [
+        [
+          "g",
+          "Thiết kế thí nghiệm",
+          [
+            "Khảo sát ảnh hưởng của các điều kiện như nhiệt độ hoặc pH đến hoạt tính enzyme amylase; giữ các yếu tố khác phù hợp để so sánh."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 15",
+      "Thực hành: Thí nghiệm phân tích hoạt tính của enzyme amylase",
+      96,
+      [
+        [
+          "g",
+          "Mục tiêu và nguyên tắc",
+          [
+            "Amylase xúc tác phân giải tinh bột thành các carbohydrate ngắn hơn. Có thể theo dõi sự giảm tinh bột bằng thuốc thử thích hợp; kết quả phụ thuộc nhiệt độ, pH, thời gian và lượng enzyme."
+          ]
+        ],
+        [
+          "n",
+          "Thiết kế và kết luận",
+          [
+            "So sánh mẫu có enzyme hoạt động với mẫu đối chứng, giữ các điều kiện khác giống nhau. Ghi thời gian và hiện tượng rõ ràng; không suy luận rằng enzyme bị phá huỷ nếu chưa loại trừ các nguyên nhân khác."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 16",
+      "Chu kì tế bào và nguyên phân",
+      97,
+      [
+        [
+          "d",
+          "Chu kì tế bào",
+          [
+            "Gồm kì trung gian và pha phân bào; DNA được nhân đôi trước khi tế bào phân chia."
+          ]
+        ],
+        [
+          "f",
+          "Nguyên phân",
+          [
+            "Nhiễm sắc thể co xoắn, xếp trên mặt phẳng xích đạo, phân li về hai cực; tạo hai tế bào con thường có bộ nhiễm sắc thể giống tế bào mẹ."
+          ]
+        ],
+        [
+          "d",
+          "Chu kì tế bào",
+          [
+            "Chu kì tế bào gồm kì trung gian và pha phân bào. Kì trung gian thường gồm G1 (sinh trưởng), S (nhân đôi DNA) và G2 (chuẩn bị phân bào); các điểm kiểm soát giúp phát hiện sai sót trước khi tiếp tục."
+          ]
+        ],
+        [
+          "f",
+          "Các giai đoạn nguyên phân",
+          [
+            "Nhiễm sắc thể co xoắn; màng nhân dần tiêu biến và thoi phân bào hình thành; nhiễm sắc thể xếp trên mặt phẳng xích đạo; các chromatid chị em tách về hai cực; nhân mới hình thành rồi tế bào chất phân chia."
+          ]
+        ],
+        [
+          "f",
+          "Ý nghĩa",
+          [
+            "Nguyên phân tạo hai tế bào con có bộ nhiễm sắc thể nhìn chung giống tế bào mẹ, giúp sinh trưởng, thay thế tế bào và sinh sản vô tính. Sai lệch kiểm soát chu kì có thể dẫn tới phân chia bất thường."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 17",
+      "Giảm phân",
+      104,
+      [
+        [
+          "d",
+          "Diễn biến",
+          [
+            "Giảm phân gồm hai lần phân bào liên tiếp sau một lần nhân đôi DNA; số nhiễm sắc thể giảm còn một nửa."
+          ]
+        ],
+        [
+          "f",
+          "Ý nghĩa",
+          [
+            "Tạo giao tử/bào tử và góp phần tạo biến dị tổ hợp, duy trì ổn định bộ nhiễm sắc thể qua sinh sản hữu tính."
+          ]
+        ],
+        [
+          "d",
+          "Đặc điểm",
+          [
+            "Giảm phân gồm hai lần phân bào liên tiếp sau một lần nhân đôi DNA. Giảm phân I tách các nhiễm sắc thể tương đồng; giảm phân II tách các chromatid chị em."
+          ]
+        ],
+        [
+          "f",
+          "Biến dị tổ hợp",
+          [
+            "Sự tiếp hợp và trao đổi chéo giữa nhiễm sắc thể tương đồng, cùng với sự phân li độc lập của các cặp nhiễm sắc thể, tạo nhiều tổ hợp gene khác nhau trong giao tử."
+          ]
+        ],
+        [
+          "f",
+          "Vai trò sinh học",
+          [
+            "Giảm phân làm giảm số lượng nhiễm sắc thể còn một nửa ở tế bào con; khi kết hợp với thụ tinh, quá trình này góp phần duy trì số lượng nhiễm sắc thể đặc trưng của loài qua các thế hệ hữu tính."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 18",
+      "Thực hành: Làm và quan sát tiêu bản quá trình nguyên phân và giảm phân",
+      108,
+      [
+        [
+          "g",
+          "Quan sát",
+          [
+            "Nhận diện các kì phân bào qua hình dạng và vị trí nhiễm sắc thể; vẽ và chú thích tiêu bản."
+          ]
+        ],
+        [
+          "g",
+          "Nhận diện giai đoạn",
+          [
+            "Dựa vào mức độ co xoắn, vị trí và cách sắp xếp nhiễm sắc thể để phân biệt các giai đoạn. Ở giảm phân I có sự bắt cặp của nhiễm sắc thể tương đồng, khác với nguyên phân."
+          ]
+        ],
+        [
+          "n",
+          "Cách trình bày",
+          [
+            "Vẽ hình đại diện cho từng giai đoạn, chú thích nhiễm sắc thể và thoi phân bào khi quan sát được. So sánh đặc điểm quan sát với sơ đồ lí thuyết và nêu giới hạn của tiêu bản."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 19",
+      "Công nghệ tế bào",
+      110,
+      [
+        [
+          "d",
+          "Khái niệm và ứng dụng",
+          [
+            "Công nghệ tế bào nuôi cấy tế bào/mô trong điều kiện thích hợp để tạo sản phẩm hoặc cơ thể theo mục tiêu."
+          ]
+        ],
+        [
+          "f",
+          "Ví dụ",
+          [
+            "Nuôi cấy mô thực vật, nhân giống nhanh, bảo tồn nguồn gene và một số ứng dụng trong y – sinh học."
+          ]
+        ],
+        [
+          "d",
+          "Nguyên lí",
+          [
+            "Công nghệ tế bào khai thác khả năng sống, phân chia và biệt hoá của tế bào trong điều kiện nuôi cấy thích hợp. Môi trường, vô trùng và điều kiện nuôi là những yếu tố quan trọng."
+          ]
+        ],
+        [
+          "f",
+          "Ứng dụng thực vật",
+          [
+            "Nuôi cấy mô có thể nhân nhanh cây giống đồng đều, tạo cây sạch bệnh và bảo tồn nguồn gene. Từ tế bào hoặc mô thích hợp, cây có thể tái sinh thành cơ thể hoàn chỉnh trong điều kiện phù hợp."
+          ]
+        ],
+        [
+          "f",
+          "Ứng dụng động vật và y học",
+          [
+            "Các kĩ thuật tế bào được ứng dụng trong nghiên cứu phát triển, hỗ trợ sinh sản, nuôi cấy tế bào và một số hướng điều trị. Việc áp dụng cần đánh giá hiệu quả, an toàn sinh học và vấn đề đạo đức."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 20",
+      "Sự đa dạng và phương pháp nghiên cứu vi sinh vật",
+      116,
+      [
+        [
+          "d",
+          "Đặc điểm vi sinh vật",
+          [
+            "Vi sinh vật có kích thước nhỏ, trao đổi chất nhanh, sinh trưởng và sinh sản nhanh; phân bố rộng."
+          ]
+        ],
+        [
+          "f",
+          "Nghiên cứu",
+          [
+            "Có thể phân lập, nuôi cấy trên môi trường thích hợp, quan sát và định danh bằng đặc điểm hình thái hoặc phân tử."
+          ]
+        ],
+        [
+          "d",
+          "Đặc điểm vi sinh vật",
+          [
+            "Vi sinh vật thường có kích thước nhỏ, trao đổi chất mạnh và sinh trưởng nhanh khi điều kiện thuận lợi. Nhóm này rất đa dạng, gồm nhiều vi khuẩn, nấm hiển vi, động vật nguyên sinh và một số nhóm khác."
+          ]
+        ],
+        [
+          "f",
+          "Nghiên cứu vi sinh vật",
+          [
+            "Có thể quan sát bằng kính hiển vi, nuôi cấy trên môi trường phù hợp và sử dụng kĩ thuật vô trùng. Mẫu nuôi cấy cần được ghi nhãn, xử lí và thải bỏ theo quy tắc an toàn."
+          ]
+        ],
+        [
+          "n",
+          "Phân biệt vi sinh vật",
+          [
+            "Không phải mọi vi sinh vật đều gây bệnh. Nhiều loài tham gia phân giải chất hữu cơ, lên men, cố định nitrogen hoặc cộng sinh; cần đánh giá đặc điểm và vai trò của từng nhóm."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 21",
+      "Trao đổi chất, sinh trưởng và sinh sản ở vi sinh vật",
+      124,
+      [
+        [
+          "d",
+          "Trao đổi chất",
+          [
+            "Vi sinh vật có nhiều kiểu dinh dưỡng và chuyển hoá, phụ thuộc nguồn carbon, năng lượng và điều kiện môi trường."
+          ]
+        ],
+        [
+          "f",
+          "Sinh trưởng và sinh sản",
+          [
+            "Quần thể vi khuẩn thường tăng theo các pha sinh trưởng; sinh sản phổ biến bằng phân đôi, một số bằng hình thức khác."
+          ]
+        ],
+        [
+          "d",
+          "Trao đổi chất",
+          [
+            "Vi sinh vật có các kiểu dinh dưỡng khác nhau tuỳ nguồn carbon và nguồn năng lượng. Thành phần môi trường, nhiệt độ, pH, oxygen và độ ẩm ảnh hưởng quá trình trao đổi chất."
+          ]
+        ],
+        [
+          "f",
+          "Sinh trưởng",
+          [
+            "Trong nuôi cấy không liên tục, số lượng tế bào thường trải qua pha tiềm phát, pha luỹ thừa, pha cân bằng và pha suy vong. Mô hình này giúp giải thích vì sao tốc độ tăng trưởng thay đổi theo thời gian."
+          ]
+        ],
+        [
+          "f",
+          "Sinh sản và kiểm soát",
+          [
+            "Vi khuẩn thường sinh sản bằng phân đôi; nấm men có thể nảy chồi và nấm mốc tạo bào tử. Nhiệt, hoá chất hoặc quy trình vô trùng phù hợp có thể hạn chế vi sinh vật, nhưng cần chọn phương pháp đúng mục đích."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 22",
+      "Vai trò và ứng dụng của vi sinh vật",
+      131,
+      [
+        [
+          "d",
+          "Vai trò",
+          [
+            "Vi sinh vật tham gia phân giải vật chất, chu trình sinh địa hoá; một số gây bệnh, một số có ích cho con người."
+          ]
+        ],
+        [
+          "f",
+          "Ứng dụng",
+          [
+            "Dùng trong lên men thực phẩm, sản xuất enzyme, kháng sinh và xử lí môi trường."
+          ]
+        ],
+        [
+          "d",
+          "Trong tự nhiên",
+          [
+            "Vi sinh vật phân giải xác và chất thải, tuần hoàn vật chất, tham gia các chu trình sinh địa hoá và quan hệ cộng sinh. Chúng góp phần duy trì hoạt động của hệ sinh thái."
+          ]
+        ],
+        [
+          "f",
+          "Trong sản xuất",
+          [
+            "Lên men vi sinh được dùng để làm thực phẩm, đồ uống và tạo một số hoá chất, enzyme hoặc dược phẩm. Điều kiện nhiệt độ, pH, nguyên liệu và chủng vi sinh vật quyết định chất lượng sản phẩm."
+          ]
+        ],
+        [
+          "f",
+          "Mặt có hại và phòng ngừa",
+          [
+            "Một số vi sinh vật làm hỏng thực phẩm hoặc gây bệnh. Bảo quản đúng cách, vệ sinh, xử lí nước và thực phẩm, cùng sử dụng thuốc theo hướng dẫn giúp giảm nguy cơ; kháng sinh không có tác dụng điều trị bệnh do virus."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 23",
+      "Thực hành: Tìm hiểu sản phẩm công nghệ vi sinh và làm sản phẩm lên men",
+      138,
+      [
+        [
+          "g",
+          "Thực hành",
+          [
+            "Tìm hiểu quy trình tạo sản phẩm lên men; xác định nguyên liệu, vi sinh vật tham gia, điều kiện và dấu hiệu sản phẩm đạt yêu cầu."
+          ]
+        ],
+        [
+          "g",
+          "Tìm hiểu sản phẩm",
+          [
+            "Xác định nguyên liệu, vi sinh vật hoặc quá trình lên men liên quan, điều kiện sản xuất, đặc điểm sản phẩm và lợi ích thực tế. Phân biệt thông tin có nguồn đáng tin cậy với quảng cáo chưa được kiểm chứng."
+          ]
+        ],
+        [
+          "n",
+          "An toàn thực hành",
+          [
+            "Dụng cụ sạch, nguyên liệu an toàn và điều kiện lên men phù hợp là yêu cầu cơ bản. Không nếm sản phẩm khi có dấu hiệu hư hỏng, mốc lạ, mùi bất thường hoặc quy trình vệ sinh không bảo đảm."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 24",
+      "Khái quát về virus",
+      141,
+      [
+        [
+          "d",
+          "Cấu tạo",
+          [
+            "Virus không có cấu tạo tế bào; thường gồm lõi nucleic acid (DNA hoặc RNA) và vỏ protein, một số có màng bao."
+          ]
+        ],
+        [
+          "f",
+          "Đặc điểm",
+          [
+            "Virus kí sinh nội bào bắt buộc, chỉ nhân lên trong tế bào chủ; có tính đặc hiệu với vật chủ/tế bào."
+          ]
+        ],
+        [
+          "d",
+          "Cấu tạo",
+          [
+            "Virus không có cấu trúc tế bào. Hạt virus gồm vật chất di truyền DNA hoặc RNA được bao bởi vỏ protein; một số có thêm màng bọc lipid và protein bề mặt."
+          ]
+        ],
+        [
+          "f",
+          "Kí sinh nội bào bắt buộc",
+          [
+            "Virus chỉ nhân lên trong tế bào chủ nhờ sử dụng bộ máy và nguyên liệu của tế bào. Các bước khái quát gồm bám, xâm nhập, tổng hợp thành phần, lắp ráp và giải phóng; chi tiết khác nhau giữa các virus."
+          ]
+        ],
+        [
+          "f",
+          "Tính đặc hiệu và biến đổi",
+          [
+            "Protein bề mặt và tương tác với thụ thể ảnh hưởng tế bào chủ mà virus có thể xâm nhiễm. Vật chất di truyền virus có thể biến đổi, ảnh hưởng khả năng lây truyền, miễn dịch và hiệu quả biện pháp phòng chống."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 25",
+      "Một số bệnh do virus và thành tựu nghiên cứu ứng dụng virus",
+      148,
+      [
+        [
+          "d",
+          "Bệnh do virus",
+          [
+            "Virus gây nhiều bệnh ở người, động vật và thực vật; phòng bệnh dựa vào vệ sinh, tiêm vaccine và hạn chế lây truyền."
+          ]
+        ],
+        [
+          "f",
+          "Ứng dụng",
+          [
+            "Virus được nghiên cứu, ứng dụng trong vaccine, công nghệ sinh học và một số hướng điều trị."
+          ]
+        ],
+        [
+          "d",
+          "Bệnh do virus",
+          [
+            "Virus có thể gây bệnh ở người, động vật và thực vật; đường truyền có thể qua giọt bắn, tiếp xúc, máu, vector hoặc thực phẩm/nước tuỳ tác nhân. Phòng bệnh cần căn cứ đường lây cụ thể."
+          ]
+        ],
+        [
+          "f",
+          "Phòng chống",
+          [
+            "Tiêm vaccine khi có khuyến cáo, vệ sinh tay, thông khí, tránh tiếp xúc nguồn lây và kiểm soát vector là các biện pháp tuỳ bệnh. Kháng sinh không tiêu diệt virus; điều trị cần theo hướng dẫn chuyên môn."
+          ]
+        ],
+        [
+          "f",
+          "Ứng dụng virus",
+          [
+            "Virus và các thành phần của chúng được nghiên cứu để sản xuất vaccine, làm vector chuyển gene hoặc hỗ trợ một số phương pháp điều trị. Ứng dụng phải được đánh giá nghiêm ngặt về an toàn và hiệu quả."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 26",
+      "Thực hành: Điều tra một số bệnh do virus và tuyên truyền phòng chống bệnh",
+      155,
+      [
+        [
+          "g",
+          "Điều tra và truyền thông",
+          [
+            "Thu thập thông tin đáng tin cậy về bệnh do virus, đường lây, dấu hiệu và biện pháp phòng tránh; trình bày khuyến nghị rõ ràng."
+          ]
+        ],
+        [
+          "g",
+          "Điều tra thông tin",
+          [
+            "Chọn bệnh cụ thể; thu thập thông tin từ cơ quan y tế hoặc nguồn khoa học đáng tin cậy về tác nhân, đường lây, dấu hiệu, nhóm nguy cơ và biện pháp dự phòng. Không tự chẩn đoán người khác từ thông tin điều tra."
+          ]
+        ],
+        [
+          "f",
+          "Truyền thông sức khoẻ",
+          [
+            "Thông điệp nên ngắn gọn, chính xác, nêu rõ hành động phòng bệnh và nơi tìm trợ giúp. Tránh hình ảnh gây hoang mang, kì thị người bệnh hoặc lan truyền thông tin chưa xác minh."
+          ]
+        ]
+      ]
+    ]
+  ],
+  "description": "Bản tóm tắt học tập mở rộng theo bố cục và thuật ngữ của SGK người dùng cung cấp. Nội dung được diễn đạt lại, không phải bản chép nguyên văn toàn bộ sách.",
+  "version": "2.0-expanded"
+}
