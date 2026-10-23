@@ -1,0 +1,27 @@
+[
+  {
+    "id": "toan10-tap1",
+    "title": "Toán 10 · Tập một",
+    "file": "books/toan10-tap1.json"
+  },
+  {
+    "id": "hoa10-kntt",
+    "title": "Hóa học 10 · Kết nối tri thức với cuộc sống",
+    "file": "books/hoa10-kntt.json"
+  },
+  {
+    "id": "sinh10-tap1",
+    "title": "Sinh học 10 · Kết nối tri thức",
+    "file": "books/sinh10-tap1.json"
+  },
+  {
+    "id": "english10-global-success",
+    "title": "Tiếng Anh 10 · Global Success",
+    "file": "books/english10-global-success.json"
+  },
+  {
+    "id": "vat-li-10-ket-noi-tri-thuc",
+    "title": "Vật lí 10 – Kết nối tri thức với cuộc sống",
+    "file": "books/vat-li-10-ket-noi-tri-thuc.json"
+  }
+]

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#4338ca">
+<meta name="color-scheme" content="light dark">
+<meta name="application-name" content="Kiến thức tổng hợp">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Kiến thức tổng hợp">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="description" content="Ứng dụng học tập tổng hợp kiến thức sách giáo khoa lớp 10: Toán, Vật lí, Hóa học, Sinh học và Tiếng Anh.">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="icon" href="./favicon.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="manifest" href="./manifest.json">
+<title>Kiến thức tổng hợp</title>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f4f5fb;--card:#fff;--ink:#1c2033;--mut:#6a7088;--line:#e3e6f2;--pri:#5b5ce6;--pri2:#9b5cf6;--shadow:0 6px 24px rgba(60,60,130,.10);
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10121f;--card:#191c30;--ink:#eceefc;--mut:#9aa0c0;--line:#2a2e4a;--shadow:0 6px 24px rgba(0,0,0,.35)}}
+:root[data-theme="dark"]{--bg:#10121f;--card:#191c30;--ink:#eceefc;--mut:#9aa0c0;--line:#2a2e4a;--shadow:0 6px 24px rgba(0,0,0,.35)}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 "Be Vietnam Pro",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.hero{background:linear-gradient(120deg,#4338ca,#7c3aed 55%,#db2777);color:#fff;padding:34px 20px 70px;position:relative;overflow:hidden}
+.hero:before,.hero:after{content:"";position:absolute;border-radius:50%;background:rgba(255,255,255,.09)}
+.hero:before{width:320px;height:320px;right:-80px;top:-120px}.hero:after{width:200px;height:200px;left:-60px;bottom:-110px}
+.wrap{max-width:1120px;margin:0 auto;position:relative}
+.hero small{letter-spacing:.14em;text-transform:uppercase;opacity:.85;font-weight:600;font-size:12px}
+.hero h1{margin:6px 0 4px;font-size:clamp(28px,5vw,44px);font-weight:800;line-height:1.15}
+.hero p{margin:0;opacity:.9}
+.bar{height:8px;background:rgba(255,255,255,.25);border-radius:9px;max-width:340px;margin-top:18px;overflow:hidden}
+.bar i{display:block;height:100%;background:#fff;border-radius:9px;transition:width .4s}
+.bt{font-size:13px;opacity:.9;margin-top:6px}
+.tg{position:absolute;right:0;top:-6px;border:0;background:rgba(255,255,255,.2);color:#fff;border-radius:99px;padding:8px 14px;cursor:pointer;font:inherit;font-size:14px}
+.ctl{max-width:1120px;margin:-38px auto 0;padding:0 16px;position:relative;z-index:2}
+.panel{background:var(--card);border-radius:18px;box-shadow:var(--shadow);padding:14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.panel select,.panel input{font:inherit;color:var(--ink);background:var(--bg);border:1.5px solid var(--line);border-radius:12px;padding:11px 14px;min-width:0}
+#bsel{flex:1 1 200px}.panel select{flex:1 1 260px;font-weight:600}.panel input{flex:1 1 200px}
+.panel select:focus,.panel input:focus{outline:2px solid var(--pri);border-color:transparent}
+.btn{border:0;background:var(--bg);color:var(--ink);border:1.5px solid var(--line);border-radius:12px;padding:10px 16px;font:inherit;font-weight:600;cursor:pointer}
+.btn:hover{border-color:var(--pri);color:var(--pri)}.btn:disabled{opacity:.4;cursor:default}
+.btn.p{background:linear-gradient(120deg,var(--pri),var(--pri2));color:#fff;border-color:transparent}
+.main{max-width:1120px;margin:22px auto 60px;padding:0 16px;display:grid;grid-template-columns:270px 1fr;gap:22px}
+.side{position:sticky;top:12px;align-self:start;max-height:calc(100vh - 24px);overflow:auto;background:var(--card);border-radius:18px;box-shadow:var(--shadow);padding:10px}
+.ch{font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:12px 10px 4px;color:var(--c)}
+.ch span{display:block;color:var(--mut);text-transform:none;font-weight:500;letter-spacing:0;font-size:12.5px;line-height:1.35}
+.it{display:flex;gap:8px;align-items:center;width:100%;text-align:left;border:0;background:none;color:var(--ink);font:inherit;font-size:14px;padding:8px 10px;border-radius:10px;cursor:pointer}
+.it:hover{background:var(--bg)}.it.on{background:var(--c);color:#fff;font-weight:600}
+.it b{flex:none;width:22px;height:22px;border-radius:50%;border:2px solid var(--line);display:grid;place-items:center;font-size:11px;color:transparent}
+.it.dn b{background:#22c55e;border-color:#22c55e;color:#fff}
+.head{background:var(--card);border-radius:18px;box-shadow:var(--shadow);padding:22px 24px;border-left:8px solid var(--c);margin-bottom:16px}
+.tag{display:inline-block;background:var(--c);color:#fff;border-radius:99px;font-size:12.5px;font-weight:700;padding:3px 12px}
+.head h2{margin:8px 0 2px;font-size:clamp(22px,3.6vw,30px);line-height:1.25}
+.head p{margin:0;color:var(--mut);font-size:14px}
+.sec{background:var(--card);border-radius:16px;box-shadow:var(--shadow);padding:16px 20px 14px;margin-bottom:14px;border-top:4px solid var(--k)}
+.sec h3{margin:0 0 8px;font-size:16.5px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.sec h3 em{font-style:normal;font-size:11px;font-weight:700;color:#fff;background:var(--k);border-radius:8px;padding:2px 9px;text-transform:uppercase;letter-spacing:.04em}
+.sec ul{margin:0;padding-left:20px}.sec li{margin:5px 0}
+.d{--k:#4f7cff}.f{--k:#f59e0b}.n{--k:#ef5b7a}.g{--k:#16a34a}.q{--k:#8b5cf6}
+.fm{background:linear-gradient(120deg,rgba(245,158,11,.13),rgba(245,158,11,.04));border:1px dashed rgba(245,158,11,.55);border-radius:12px;padding:9px 14px;margin:8px 0;font-size:17px;overflow-x:auto}
+.lead{margin:0 0 6px;color:var(--mut);font-size:14px}
+.sec b{color:var(--k)}
+.x{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;margin:0 .2em;font-size:.92em;line-height:1.35}
+.x span:first-child{border-bottom:1.5px solid currentColor;padding:0 .2em}
+v{position:relative;display:inline-block;font-style:italic}
+v:before{content:"→";position:absolute;top:-.62em;right:-.05em;font-size:.75em;font-style:normal;line-height:1}
+.tw{overflow-x:auto}table{border-collapse:collapse;font-size:14px;margin:6px 0}
+td,th{border:1px solid var(--line);padding:5px 10px;text-align:center;white-space:nowrap}th{background:var(--bg)}
+.nav{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:18px}
+.src{font-size:12.5px;color:var(--mut);text-align:center;margin-top:30px}
+.hit{font-size:12px;color:var(--mut);margin:0 0 6px}
+@media(max-width:860px){.main{grid-template-columns:1fr}.side{display:none}}
+</style>
+
+<style id="mobile-overflow-fix">
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+img, video, canvas, iframe, svg {
+  max-width: 100%;
+}
+@media (max-width: 600px) {
+  body {
+    width: 100%;
+    margin: 0;
+  }
+  .powered-by-tran-cong {
+    width: 100%;
+    max-width: 100%;
+    padding: 0 12px;
+    margin: 20px auto 12px !important;
+    font-size: 13px !important;
+    line-height: 1.4;
+    text-align: center;
+    overflow-wrap: anywhere;
+  }
+}
+</style>
+</head>
+<body>
+<header class="hero"><div class="wrap">
+<button class="tg" id="tg" aria-label="Đổi giao diện sáng/tối">🌓 Sáng / Tối</button>
+<small>Kết nối tri thức với cuộc sống</small>
+<h1 id="ht">Đang tải…</h1>
+<p id="hp"></p>
+<div class="bar"><i id="pb"></i></div><div class="bt" id="pt"></div>
+</div></header>
+
+<div class="ctl"><div class="panel">
+<select id="bsel" aria-label="Chọn sách"></select>
+<select id="sel" aria-label="Chọn bài"></select>
+<input id="q" type="search" placeholder="🔎 Tìm kiến thức (vd: trung vị, côsin…)">
+<button class="btn" id="pv">← Trước</button><button class="btn p" id="nx">Sau →</button>
+</div></div>
+
+<div style="max-width:1120px;margin:10px auto 0;padding:0 16px;color:var(--mut);font-size:13px" id="sync-status" role="status" aria-live="polite">Chuẩn bị dữ liệu sách…</div>
+<div class="main"><aside class="side" id="side"></aside><section id="out"></section></div>
+
+<script>
+var C=[],L=[],BK=[],B=null;
+var K={d:["Định nghĩa"],f:["Công thức"],n:["Lưu ý"],g:["Cách làm"],q:["Câu hỏi ôn tập"]};
+var $=function(i){return document.getElementById(i)},cur=0,done={};
+
+function fx(s){return s.replace(/\{([^{}|]+)\|([^{}]+)\}/g,'<span class="x"><span>$1</span><span>$2</span></span>')}
+function sec(s,tag){var b=s[2];b=typeof b=="string"?b:(s[0]=="f"?b.map(function(x){return '<div class="fm">'+fx(x)+'</div>'}).join(''):'<ul>'+b.map(function(x){return '<li>'+fx(x)+'</li>'}).join('')+'</ul>');return '<div class="sec '+s[0]+'">'+(tag?'<p class="hit">'+tag+'</p>':'')+'<h3><em>'+K[s[0]][0]+'</em>'+s[1]+'</h3>'+b+'</div>'}
+function save(){try{localStorage.setItem("t10_"+B.id,JSON.stringify(done))}catch(e){}}
+function prog(){var n=Object.keys(done).filter(function(k){return done[k]}).length;$("pb").style.width=n/L.length*100+"%";$("pt").textContent="Đã học "+n+"/"+L.length+" bài"}
+function side(){$("side").innerHTML=C.map(function(c,ci){return '<div class="ch" style="--c:'+c[2]+'">'+c[0]+'<span>'+c[1]+'</span></div>'+L.map(function(l,i){return l[0]==ci?'<button class="it'+(i==cur?' on':'')+(done[i]?' dn':'')+'" style="--c:'+c[2]+'" data-i="'+i+'"><b>✓</b>'+l[1]+'. '+l[2]+'</button>':''}).join('')}).join('')}
+function show(i,noscroll){cur=i;$("q").value="";var l=L[i],c=C[l[0]];
+$("out").innerHTML='<div class="head" style="--c:'+c[2]+'"><span class="tag">'+c[0]+' · '+l[1]+'</span><h2>'+l[2]+'</h2><p>Sách trang '+l[3]+'</p></div>'+l[4].map(function(s){return sec(s)}).join('')+'<div class="nav"><button class="btn" id="pv2"'+(i?'':' disabled')+'>← Bài trước</button><button class="btn" id="dn">'+(done[i]?'✓ Đã học (bỏ đánh dấu)':'Đánh dấu đã học')+'</button><button class="btn p" id="nx2"'+(i<L.length-1?'':' disabled')+'>Bài sau →</button></div><p class="src">'+B.source+'</p>';
+$("sel").value=i;$("pv").disabled=!i;$("nx").disabled=i==L.length-1;side();prog();
+$("pv2").onclick=$("pv").onclick;$("nx2").onclick=$("nx").onclick;
+$("dn").onclick=function(){done[cur]=!done[cur];save();show(cur,1)};
+try{history.replaceState(null,"","#"+B.id+"."+i)}catch(e){}
+if(!noscroll)window.scrollTo({top:0,behavior:"smooth"})}
+function find(q){q=q.toLowerCase();var h="",n=0;L.forEach(function(l){l[4].forEach(function(s){var t=(s[1]+" "+(typeof s[2]=="string"?s[2]:s[2].join(" "))).replace(/<[^>]+>/g,"").toLowerCase();if(t.indexOf(q)>-1){n++;h+=sec(s,l[1]+" · "+l[2])}})});
+$("out").innerHTML='<div class="head" style="--c:#5b5ce6"><span class="tag">Tìm kiếm</span><h2>Kết quả cho “'+q.replace(/</g,"&lt;")+'”</h2><p>'+n+' mục phù hợp</p></div>'+h}
+$("sel").onchange=function(){show(+this.value)};
+$("pv").onclick=function(){if(cur>0)show(cur-1)};$("nx").onclick=function(){if(cur<L.length-1)show(cur+1)};
+$("side").onclick=function(e){var b=e.target.closest(".it");if(b)show(+b.dataset.i)};
+$("q").oninput=function(){var v=this.value.trim();v.length>1?find(v):show(cur,1)};
+$("tg").onclick=function(){var r=document.documentElement,d=r.getAttribute("data-theme")||(matchMedia("(prefers-color-scheme:dark)").matches?"dark":"light");r.setAttribute("data-theme",d=="dark"?"light":"dark")};
+
+function opts(){$("sel").innerHTML=C.map(function(c,ci){return '<optgroup label="'+c[0]+' – '+c[1]+'">'+L.map(function(l,i){return l[0]==ci?'<option value="'+i+'">'+l[1]+'. '+l[2]+'</option>':''}).join('')+'</optgroup>'}).join('')}
+// Đồng bộ sách online và lưu bản đã tải vào IndexedDB để đọc offline.
+// Nếu đóng gói bằng Capacitor/GitHub Actions, điền URL website HTTPS ở dòng dưới.
+var REMOTE_BASE_URL = "https://YOUR-WEBSITE-DOMAIN/";
+var DB_NAME="kienthuc-tonghop-cache", DB_VERSION=1;
+function remoteBase(){
+  if(REMOTE_BASE_URL && REMOTE_BASE_URL.indexOf("YOUR-WEBSITE-DOMAIN")===-1) return REMOTE_BASE_URL.replace(/\/?$/,"/");
+  if(location.protocol==="http:" || location.protocol==="https:") {
+    if(location.hostname!=="localhost" && location.hostname!=="127.0.0.1") return location.href.split("#")[0].replace(/[^/]*$/,"");
+  }
+  return "";
+}
+function dbOpen(){return new Promise(function(resolve,reject){if(!window.indexedDB){reject(new Error("IndexedDB không hỗ trợ"));return}var q=indexedDB.open(DB_NAME,DB_VERSION);q.onupgradeneeded=function(){var d=q.result;if(!d.objectStoreNames.contains("items"))d.createObjectStore("items")};q.onsuccess=function(){resolve(q.result)};q.onerror=function(){reject(q.error)}})}
+function dbGet(key){return dbOpen().then(function(d){return new Promise(function(resolve,reject){var q=d.transaction("items","readonly").objectStore("items").get(key);q.onsuccess=function(){resolve(q.result)};q.onerror=function(){reject(q.error)}})})}
+function dbSet(key,value){return dbOpen().then(function(d){return new Promise(function(resolve,reject){var tx=d.transaction("items","readwrite");tx.objectStore("items").put(value,key);tx.oncomplete=function(){resolve(value)};tx.onerror=function(){reject(tx.error)}})})}
+function setSyncStatus(msg){var e=$("sync-status");if(e)e.textContent=msg}
+function fetchJSON(url){return fetch(url,{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error("HTTP "+r.status);return r.json()})}
+function getCatalog(){var base=remoteBase(),url=base?new URL("books.json",base).href:"books.json";return fetchJSON(url).then(function(a){return dbSet("catalog",a).then(function(){return a})}).catch(function(){return dbGet("catalog").then(function(a){if(a)return a;return fetchJSON("books.json")})})}
+function getBook(entry){var base=remoteBase(),url=base?new URL(entry.file,base).href:entry.file;return fetchJSON(url).then(function(b){return dbSet("book:"+entry.id,b).then(function(){setSyncStatus("Đã đồng bộ sách mới nhất");return b})}).catch(function(){return dbGet("book:"+entry.id).then(function(b){if(b){setSyncStatus("Đang dùng sách đã lưu offline");return b}throw new Error("Chưa có bản sách offline")})})}
+function syncAll(){if(!navigator.onLine){setSyncStatus("Ngoại tuyến · dùng sách đã lưu");return Promise.resolve()}setSyncStatus("Đang kiểm tra sách mới…");return getCatalog().then(function(a){return Promise.all(a.map(function(entry){return getBook(entry).catch(function(){return null})})).then(function(){setSyncStatus("Đã kiểm tra cập nhật sách")})}).catch(function(){setSyncStatus("Không có mạng · dùng dữ liệu đã lưu")})}
+function openBook(k,n){var f=BK[k];if(!f)return;$("bsel").value=k;setSyncStatus(navigator.onLine?"Đang tải sách…":"Đang mở sách offline…");
+getBook(f).then(function(b){B=b;C=b.chapters;L=b.lessons;done={};
+try{done=JSON.parse(localStorage.getItem("t10_"+B.id)||"{}")}catch(e){}
+$("ht").textContent=B.title;$("hp").textContent=B.sub;document.title=B.title+" – Tóm tắt kiến thức";opts();show(n&&L[n]?n:0,1)}).catch(function(){$("out").innerHTML='<div class="head" style="--c:#ef5b7a"><h2>Chưa có dữ liệu sách offline</h2><p>Hãy kết nối Internet một lần để tải sách về điện thoại.</p></div>'})}
+$("bsel").onchange=function(){openBook(+this.value,0)};
+getCatalog().then(function(a){BK=a;$("bsel").innerHTML=a.map(function(x,i){return '<option value="'+i+'">'+x.title+'</option>'}).join('');
+var m=/^#([^.]+)\.(\d+)$/.exec(location.hash),k=0,n=0;if(m){a.forEach(function(x,i){if(x.id==m[1]){k=i;n=+m[2]}})}openBook(k,n);if(navigator.onLine)syncAll()}).catch(function(){$("out").innerHTML='<div class="head" style="--c:#ef5b7a"><h2>Không có danh mục sách</h2><p>Kết nối Internet lần đầu để tải danh mục và sách.</p></div>'});
+window.addEventListener("online",function(){syncAll().then(function(){getCatalog().then(function(a){var old=BK.map(function(x){return x.id}).join("|");BK=a;$("bsel").innerHTML=a.map(function(x,i){return '<option value="'+i+'">'+x.title+'</option>'}).join('');var idx=a.findIndex(function(x){return x.id===B?.id});if(idx>=0){$("bsel").value=idx}if(old!==a.map(function(x){return x.id}).join("|"))setSyncStatus("Đã có danh mục sách mới")})})});
+window.addEventListener("offline",function(){setSyncStatus("Ngoại tuyến · sách đã lưu vẫn dùng được")});
+
+</script>
+
+<div class="powered-by-tran-cong" style="text-align:center;margin:24px auto 12px;font-size:14px;opacity:.75;max-width:100%;overflow-wrap:anywhere;">
+  Powered by Trần Công
+</div>
+
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('./sw.js').catch(function (err) { console.warn('Service worker registration failed:', err); });
+  });
+}
+</script>
+
+</body>
+</html>
