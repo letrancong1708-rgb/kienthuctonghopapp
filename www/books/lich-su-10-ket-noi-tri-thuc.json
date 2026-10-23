@@ -1,0 +1,517 @@
+{
+  "id": "lich-su-10-ket-noi-tri-thuc",
+  "title": "Lịch sử 10 · Kết nối tri thức với cuộc sống",
+  "sub": "Tóm tắt kiến thức · 7 chủ đề · 14 bài",
+  "source": "Biên soạn theo mục lục và chủ đề của SGK Lịch sử 10 – Kết nối tri thức với cuộc sống (PDF người dùng cung cấp). Nội dung là phần diễn giải phục vụ học tập, không phải bản chép nguyên văn SGK.",
+  "chapters": [
+    [
+      "Chủ đề 1",
+      "Lịch sử và sử học",
+      "#ef6a5b"
+    ],
+    [
+      "Chủ đề 2",
+      "Vai trò của Sử học",
+      "#16a085"
+    ],
+    [
+      "Chủ đề 3",
+      "Một số nền văn minh thế giới thời cổ – trung đại",
+      "#8b5cf6"
+    ],
+    [
+      "Chủ đề 4",
+      "Các cuộc cách mạng công nghiệp trong lịch sử thế giới",
+      "#0ea5a0"
+    ],
+    [
+      "Chủ đề 5",
+      "Văn minh Đông Nam Á thời cổ – trung đại",
+      "#e8920c"
+    ],
+    [
+      "Chủ đề 6",
+      "Một số nền văn minh trên đất nước Việt Nam trước năm 1858",
+      "#db2777"
+    ],
+    [
+      "Chủ đề 7",
+      "Cộng đồng các dân tộc Việt Nam",
+      "#2563eb"
+    ]
+  ],
+  "lessons": [
+    [
+      0,
+      "Bài 1",
+      "Lịch sử hiện thực và nhận thức lịch sử",
+      6,
+      [
+        [
+          "d",
+          "Lịch sử hiện thực và nhận thức lịch sử",
+          [
+            "Lịch sử hiện thực là toàn bộ những gì đã diễn ra trong quá khứ của xã hội loài người, tồn tại khách quan, không phụ thuộc vào ý muốn của con người ngày nay.",
+            "Nhận thức lịch sử là hiểu biết của con người về quá khứ, được hình thành thông qua tư liệu, phương pháp nghiên cứu và cách giải thích của nhà sử học.",
+            "Nhận thức lịch sử có thể thay đổi khi phát hiện tư liệu mới hoặc khi cách tiếp cận, phương pháp nghiên cứu được bổ sung."
+          ]
+        ],
+        [
+          "f",
+          "Sử liệu và việc tìm hiểu quá khứ",
+          [
+            "Sử liệu là những dấu tích, tài liệu hoặc thông tin được lưu lại từ quá khứ và được sử dụng để nghiên cứu lịch sử.",
+            "Có thể phân biệt sử liệu thành sử liệu hiện vật, chữ viết, truyền miệng, hình ảnh và các dạng tư liệu khác. Mỗi loại có ưu điểm và giới hạn riêng.",
+            "Khi sử dụng sử liệu cần xem xét nguồn gốc, thời điểm tạo lập, mục đích, tính xác thực và đối chiếu với những nguồn độc lập khác."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt lịch sử hiện thực với nhận thức lịch sử.",
+            "Nêu các loại sử liệu và giải thích vì sao cần đối chiếu nhiều nguồn tư liệu."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 2",
+      "Tri thức lịch sử và cuộc sống",
+      15,
+      [
+        [
+          "d",
+          "Ý nghĩa của tri thức lịch sử",
+          [
+            "Tri thức lịch sử giúp con người hiểu nguồn gốc cộng đồng, quá trình hình thành quốc gia, những biến đổi xã hội và mối liên hệ giữa quá khứ với hiện tại.",
+            "Học lịch sử góp phần bồi dưỡng ý thức về cội nguồn, lòng yêu quê hương đất nước, khả năng đánh giá sự kiện trong bối cảnh và ý thức gìn giữ di sản.",
+            "Tri thức lịch sử cũng giúp rút kinh nghiệm từ thành công, hạn chế trong quá khứ, nhưng không nên áp dụng máy móc bài học cũ cho hoàn cảnh mới."
+          ]
+        ],
+        [
+          "f",
+          "Học tập và vận dụng lịch sử",
+          [
+            "Có thể học lịch sử qua sách, bảo tàng, di tích, tư liệu số, lời kể nhân chứng và hoạt động trải nghiệm.",
+            "Khi vận dụng kiến thức lịch sử cần phân biệt sự kiện, bằng chứng và cách diễn giải; đặt sự kiện vào bối cảnh thời gian, không gian và điều kiện cụ thể."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ít nhất ba vai trò của tri thức lịch sử đối với đời sống.",
+            "Đề xuất một cách tìm hiểu lịch sử địa phương bằng tư liệu đáng tin cậy."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 3",
+      "Sử học với các lĩnh vực khoa học",
+      19,
+      [
+        [
+          "d",
+          "Mối quan hệ giữa Sử học và các khoa học",
+          [
+            "Sử học nghiên cứu quá khứ con người và xã hội; để giải thích sự kiện, nhà sử học có thể sử dụng kết quả của khảo cổ học, địa lí học, nhân học, ngôn ngữ học, kinh tế học và các ngành khoa học khác.",
+            "Khoa học tự nhiên hỗ trợ xác định niên đại, phân tích di cốt, vật liệu, môi trường và điều kiện sinh sống trong quá khứ.",
+            "Sử học cũng cung cấp bối cảnh thời gian và kinh nghiệm lịch sử cho nhiều lĩnh vực nghiên cứu xã hội, văn hóa và chính sách."
+          ]
+        ],
+        [
+          "f",
+          "Hợp tác liên ngành",
+          [
+            "Nghiên cứu liên ngành giúp kiểm chứng tư liệu từ nhiều góc độ, bổ sung dữ liệu còn thiếu và tránh kết luận chỉ dựa vào một loại bằng chứng.",
+            "Kết quả khoa học cần được diễn giải phù hợp với câu hỏi lịch sử; không nên xem một kết quả đo đạc riêng lẻ là đủ để giải thích toàn bộ sự kiện."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ví dụ về một ngành khoa học hỗ trợ nghiên cứu lịch sử và cách hỗ trợ đó.",
+            "Vì sao nghiên cứu lịch sử cần kết hợp nhiều nguồn và phương pháp?"
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 4",
+      "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+      26,
+      [
+        [
+          "d",
+          "Ứng dụng của Sử học",
+          [
+            "Kiến thức lịch sử có ích trong giáo dục, bảo tồn di sản, bảo tàng, du lịch, truyền thông, ngoại giao và hoạch định chính sách.",
+            "Hiểu bối cảnh lịch sử giúp diễn giải di tích, hiện vật và tập quán một cách có căn cứ; đồng thời hạn chế việc trình bày quá khứ sai lệch hoặc tách khỏi hoàn cảnh hình thành.",
+            "Trong du lịch và truyền thông, thông tin lịch sử cần được kiểm chứng, trình bày rõ nguồn và tôn trọng tính đa dạng của ký ức cộng đồng."
+          ]
+        ],
+        [
+          "f",
+          "Bảo tồn và phát huy giá trị lịch sử",
+          [
+            "Bảo tồn di sản là gìn giữ các giá trị vật thể và phi vật thể; phát huy giá trị là làm cho di sản tiếp tục có ý nghĩa trong đời sống hiện tại.",
+            "Các hoạt động số hóa tư liệu, trưng bày bảo tàng, thuyết minh di tích và xây dựng sản phẩm du lịch cần bảo đảm độ chính xác và tôn trọng di sản."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Kể tên các lĩnh vực nghề nghiệp có thể vận dụng tri thức lịch sử.",
+            "Nêu nguyên tắc cần chú ý khi giới thiệu một di tích lịch sử cho khách tham quan."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 5",
+      "Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại",
+      33,
+      [
+        [
+          "d",
+          "Khái niệm văn hóa và văn minh",
+          [
+            "Văn hóa bao gồm những giá trị vật chất và tinh thần do con người sáng tạo trong lịch sử. Văn minh thường chỉ trình độ phát triển nhất định của xã hội, thể hiện qua tổ chức nhà nước, kinh tế, đô thị, chữ viết, khoa học và nghệ thuật.",
+            "Các nền văn minh phương Đông cổ đại hình thành ở những lưu vực sông lớn, nơi nông nghiệp, thủy lợi, dân cư đông đúc và tổ chức quản lí xã hội phát triển.",
+            "Ai Cập, Lưỡng Hà, Ấn Độ và Trung Hoa có những thành tựu riêng về chữ viết, kiến trúc, toán học, thiên văn, tôn giáo và tư tưởng."
+          ]
+        ],
+        [
+          "f",
+          "Một số thành tựu tiêu biểu",
+          [
+            "Ai Cập cổ đại nổi bật với chữ tượng hình, kiến trúc kim tự tháp và kiến thức hình học, lịch pháp.",
+            "Lưỡng Hà phát triển chữ hình nêm, luật pháp thành văn và các tri thức toán học, thiên văn.",
+            "Ấn Độ có các đóng góp về tôn giáo, triết học, toán học và văn học; Trung Hoa có thành tựu về chữ viết, tư tưởng, kỹ thuật và bộ máy nhà nước.",
+            "Cần xem xét mỗi thành tựu trong điều kiện lịch sử cụ thể và tránh coi các nền văn minh là hoàn toàn giống nhau."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Trình bày khái niệm văn hóa và văn minh theo nội dung bài học.",
+            "Chọn hai nền văn minh phương Đông và nêu thành tựu tiêu biểu của mỗi nền văn minh."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 6",
+      "Một số nền văn minh phương Tây thời kì cổ – trung đại",
+      48,
+      [
+        [
+          "d",
+          "Văn minh Hy Lạp và La Mã",
+          [
+            "Các nền văn minh Hy Lạp và La Mã cổ đại phát triển quanh khu vực Địa Trung Hải, gắn với thương mại biển, đô thị, hoạt động chính trị và giao lưu văn hóa.",
+            "Hy Lạp có đóng góp nổi bật về triết học, sử học, toán học, nghệ thuật, kiến trúc và hình thức tổ chức chính trị ở một số thành bang.",
+            "La Mã nổi bật về luật pháp, quản trị, kỹ thuật xây dựng, đường sá, cầu dẫn nước và sự lan tỏa của văn hóa La Mã trong đế chế."
+          ]
+        ],
+        [
+          "f",
+          "Văn minh phương Tây thời trung đại",
+          [
+            "Xã hội châu Âu trung đại chịu ảnh hưởng lớn của Kitô giáo và các thiết chế phong kiến; các thành thị, thương nghiệp và trường học dần phát triển.",
+            "Di sản cổ đại được lưu giữ, tiếp nhận và biến đổi qua nhiều giai đoạn. Giao lưu giữa các khu vực cũng góp phần truyền bá tri thức.",
+            "Khi so sánh các nền văn minh, cần dựa trên tiêu chí rõ ràng như kinh tế, chính trị, tư tưởng, khoa học và nghệ thuật."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu hai thành tựu tiêu biểu của văn minh Hy Lạp và hai thành tựu của La Mã.",
+            "Trình bày một đặc điểm của xã hội châu Âu thời trung đại."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 7",
+      "Các cuộc cách mạng công nghiệp thời kì cận đại",
+      58,
+      [
+        [
+          "d",
+          "Cách mạng công nghiệp lần thứ nhất",
+          [
+            "Cách mạng công nghiệp lần thứ nhất khởi đầu ở Anh vào thế kỉ XVIII, sau đó lan sang một số nước khác; sản xuất thủ công từng bước chuyển sang cơ giới hóa.",
+            "Máy hơi nước, máy kéo sợi và máy dệt góp phần nâng năng suất, thúc đẩy nhà máy, đô thị và giao thông phát triển.",
+            "Quá trình công nghiệp hóa làm thay đổi cơ cấu lao động, quan hệ xã hội và điều kiện sống; đồng thời tạo ra các vấn đề về lao động, đô thị và môi trường."
+          ]
+        ],
+        [
+          "f",
+          "Cách mạng công nghiệp lần thứ hai",
+          [
+            "Từ nửa sau thế kỉ XIX, điện, thép, hóa chất, động cơ đốt trong và các phương thức sản xuất mới thúc đẩy công nghiệp phát triển.",
+            "Sản xuất hàng loạt, mạng lưới đường sắt và các phương tiện liên lạc mới làm thay đổi quy mô kinh tế và kết nối giữa các khu vực.",
+            "Tác động của cách mạng công nghiệp cần được xem xét cả mặt tích cực như tăng năng suất lẫn hệ quả xã hội và môi trường."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu một số phát minh tiêu biểu của cách mạng công nghiệp lần thứ nhất và lần thứ hai.",
+            "Phân tích một tác động tích cực và một hệ quả của công nghiệp hóa."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 8",
+      "Các cuộc cách mạng công nghiệp thời kì hiện đại",
+      68,
+      [
+        [
+          "d",
+          "Cách mạng công nghiệp trong thời hiện đại",
+          [
+            "Các cuộc cách mạng công nghiệp thời hiện đại gắn với tự động hóa, điện tử, công nghệ thông tin, máy tính và mạng Internet.",
+            "Những tiến bộ này làm thay đổi cách tổ chức sản xuất, giao tiếp, vận tải, dịch vụ và tiếp cận tri thức.",
+            "Công nghệ mới có thể nâng hiệu quả và tạo nghề nghiệp mới, nhưng cũng đặt ra yêu cầu đào tạo lại lao động, bảo vệ dữ liệu và thu hẹp khoảng cách số."
+          ]
+        ],
+        [
+          "f",
+          "Tác động và cách thích ứng",
+          [
+            "Tự động hóa có thể thay thế một số công việc lặp lại, đồng thời làm tăng nhu cầu về kỹ năng số, tư duy phản biện, sáng tạo và hợp tác.",
+            "Khi đánh giá công nghệ cần cân nhắc hiệu quả kinh tế, tác động đến con người, môi trường và khả năng tiếp cận công bằng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu những đặc điểm chính của các cuộc cách mạng công nghiệp thời hiện đại.",
+            "Theo em, học sinh cần chuẩn bị những kỹ năng nào để thích ứng với thay đổi công nghệ?"
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 9",
+      "Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại",
+      76,
+      [
+        [
+          "d",
+          "Điều kiện hình thành",
+          [
+            "Đông Nam Á nằm ở vị trí giao thoa giữa các tuyến giao thương biển và lục địa, có điều kiện tự nhiên đa dạng, khí hậu nhiệt đới và hệ thống sông ngòi phong phú.",
+            "Nông nghiệp lúa nước, thủ công nghiệp, thương mại và sự hình thành các trung tâm cư trú tạo cơ sở kinh tế – xã hội cho các nhà nước và nền văn minh khu vực.",
+            "Cư dân Đông Nam Á vừa phát triển những yếu tố văn hóa bản địa vừa tiếp nhận, chọn lọc ảnh hưởng từ Ấn Độ, Trung Hoa và các mạng lưới giao lưu khác."
+          ]
+        ],
+        [
+          "f",
+          "Giao lưu văn hóa",
+          [
+            "Tôn giáo, chữ viết, nghệ thuật, kiến trúc và mô hình tổ chức nhà nước được truyền bá qua thương mại, di cư và hoạt động ngoại giao.",
+            "Quá trình tiếp nhận không đơn thuần là sao chép; các cộng đồng đã biến đổi yếu tố bên ngoài để phù hợp với điều kiện địa phương."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các điều kiện tự nhiên và kinh tế góp phần hình thành văn minh Đông Nam Á.",
+            "Giải thích vì sao giao lưu văn hóa có vai trò quan trọng đối với khu vực."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 10",
+      "Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại",
+      85,
+      [
+        [
+          "d",
+          "Quá trình phát triển",
+          [
+            "Trong thời cổ – trung đại, Đông Nam Á xuất hiện nhiều quốc gia và trung tâm văn minh trên đất liền cũng như hải đảo, gắn với nông nghiệp, thương mại và các tuyến hàng hải.",
+            "Các vương quốc phát triển trong những điều kiện khác nhau, có quan hệ giao lưu, cạnh tranh và tiếp xúc với các khu vực lân cận.",
+            "Di sản văn minh khu vực thể hiện ở các công trình kiến trúc, nghệ thuật điêu khắc, văn học, tôn giáo, luật tục và tri thức sản xuất."
+          ]
+        ],
+        [
+          "f",
+          "Thành tựu tiêu biểu",
+          [
+            "Kiến trúc đền tháp và công trình tôn giáo cho thấy sự kết hợp giữa tín ngưỡng, quyền lực chính trị và kỹ thuật xây dựng.",
+            "Văn học, chữ viết và nghệ thuật phản ánh sự giao thoa giữa truyền thống bản địa với các ảnh hưởng bên ngoài.",
+            "Khi học về thành tựu, cần gắn mỗi công trình hoặc hiện vật với cộng đồng tạo dựng, thời gian và bối cảnh lịch sử của nó."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Trình bày một số nét chính trong hành trình phát triển của văn minh Đông Nam Á.",
+            "Chọn một thành tựu văn minh Đông Nam Á và giải thích giá trị lịch sử của thành tựu đó."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 11",
+      "Một số nền văn minh cổ trên đất nước Việt Nam",
+      93,
+      [
+        [
+          "d",
+          "Văn minh Văn Lang – Âu Lạc",
+          [
+            "Văn minh Văn Lang – Âu Lạc hình thành trên cơ sở cộng đồng cư dân nông nghiệp lúa nước ở lưu vực sông Hồng và các vùng phụ cận.",
+            "Những dấu tích khảo cổ, tiêu biểu như văn hóa Đông Sơn, cung cấp bằng chứng về đời sống kinh tế, kỹ thuật luyện kim, công cụ lao động, vũ khí và sinh hoạt cộng đồng.",
+            "Trống đồng và các hiện vật liên quan phản ánh trình độ thủ công, biểu tượng văn hóa và quan hệ xã hội của cư dân thời dựng nước."
+          ]
+        ],
+        [
+          "f",
+          "Văn minh Chăm-pa và Phù Nam",
+          [
+            "Văn minh Chăm-pa phát triển ở miền Trung Việt Nam, gắn với nông nghiệp, thương mại biển, tín ngưỡng và các quần thể đền tháp.",
+            "Phù Nam là một trung tâm chính trị – thương mại cổ ở khu vực hạ lưu sông Mekong, có quan hệ trao đổi với nhiều vùng trong mạng lưới hàng hải.",
+            "Các nền văn minh cổ trên lãnh thổ Việt Nam có đặc điểm riêng, đồng thời tham gia vào quá trình giao lưu rộng lớn ở Đông Nam Á."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu đặc điểm nổi bật của văn minh Văn Lang – Âu Lạc.",
+            "So sánh một điểm giống và một điểm khác giữa văn minh Chăm-pa và Phù Nam."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 12",
+      "Văn minh Đại Việt",
+      108,
+      [
+        [
+          "d",
+          "Cơ sở và quá trình phát triển",
+          [
+            "Văn minh Đại Việt phát triển qua nhiều triều đại độc lập thời trung đại, dựa trên nền tảng nông nghiệp, làng xã, nhà nước quân chủ và truyền thống văn hóa bản địa.",
+            "Nhà nước, pháp luật, giáo dục và khoa cử góp phần tổ chức xã hội; Nho giáo, Phật giáo, Đạo giáo cùng tín ngưỡng dân gian có ảnh hưởng ở những mức độ khác nhau.",
+            "Các cuộc kháng chiến bảo vệ đất nước, hoạt động ngoại giao và giao lưu khu vực cũng góp phần định hình bản sắc văn minh Đại Việt."
+          ]
+        ],
+        [
+          "f",
+          "Thành tựu văn minh Đại Việt",
+          [
+            "Thành tựu thể hiện trong tổ chức nhà nước, luật pháp, văn học chữ Hán và chữ Nôm, sử học, giáo dục, kiến trúc, nghệ thuật và kỹ thuật sản xuất.",
+            "Di sản như thành quách, đền chùa, bia đá, sách cổ và di tích khoa cử giúp tìm hiểu đời sống chính trị, tư tưởng và văn hóa.",
+            "Cần nhận diện cả thành tựu lẫn giới hạn lịch sử, đặt chúng trong bối cảnh xã hội và điều kiện của từng thời kì."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các cơ sở hình thành và phát triển của văn minh Đại Việt.",
+            "Trình bày hai thành tựu tiêu biểu và ý nghĩa của chúng."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 13",
+      "Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+      123,
+      [
+        [
+          "d",
+          "Đời sống vật chất",
+          [
+            "Cộng đồng các dân tộc Việt Nam có phương thức cư trú, sản xuất và sinh kế đa dạng, chịu ảnh hưởng của địa hình, khí hậu và điều kiện tài nguyên từng vùng.",
+            "Trồng lúa nước, làm nương, chăn nuôi, đánh bắt, thủ công nghiệp và trao đổi hàng hóa tạo nên sự phong phú trong đời sống kinh tế.",
+            "Nhà ở, trang phục, ẩm thực và phương tiện đi lại phản ánh khả năng thích ứng với môi trường cũng như truyền thống của từng cộng đồng."
+          ]
+        ],
+        [
+          "f",
+          "Đời sống tinh thần và bản sắc",
+          [
+            "Ngôn ngữ, tín ngưỡng, lễ hội, âm nhạc, múa, truyện kể và tri thức dân gian góp phần tạo nên bản sắc văn hóa của các dân tộc.",
+            "Giao lưu giữa các cộng đồng tạo ra những điểm tương đồng, trong khi mỗi dân tộc vẫn gìn giữ các giá trị và thực hành riêng.",
+            "Tìm hiểu văn hóa cần tôn trọng sự đa dạng, tránh định kiến và không xem một tập quán riêng là đại diện cho toàn bộ cộng đồng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu ví dụ về sự đa dạng trong đời sống vật chất của các dân tộc Việt Nam.",
+            "Giải thích vai trò của ngôn ngữ, lễ hội hoặc tri thức dân gian đối với việc gìn giữ bản sắc."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 14",
+      "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+      136,
+      [
+        [
+          "d",
+          "Cơ sở của khối đại đoàn kết",
+          [
+            "Lịch sử Việt Nam ghi nhận sự chung sống, giao lưu và hợp tác giữa nhiều cộng đồng dân tộc trong quá trình khai phá, xây dựng và bảo vệ đất nước.",
+            "Những lợi ích chung, quan hệ kinh tế – văn hóa và yêu cầu ứng phó với khó khăn góp phần thúc đẩy sự gắn kết giữa các cộng đồng.",
+            "Đoàn kết không có nghĩa là xóa bỏ sự khác biệt; việc tôn trọng quyền, phong tục và bản sắc của các dân tộc là điều kiện quan trọng để củng cố sự gắn bó."
+          ]
+        ],
+        [
+          "f",
+          "Vai trò trong lịch sử và hiện nay",
+          [
+            "Sự phối hợp giữa các cộng đồng góp phần tạo sức mạnh trong lao động, xây dựng xã hội, giao lưu văn hóa và đấu tranh bảo vệ đất nước.",
+            "Trong hiện tại, tinh thần đoàn kết gắn với bình đẳng, tôn trọng, hỗ trợ phát triển và bảo tồn giá trị văn hóa của các dân tộc.",
+            "Khi đánh giá một sự kiện lịch sử liên quan đến đoàn kết dân tộc, cần dựa vào bối cảnh, tư liệu và vai trò cụ thể của các lực lượng tham gia."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các yếu tố góp phần hình thành khối đại đoàn kết dân tộc trong lịch sử Việt Nam.",
+            "Đề xuất một việc làm thiết thực nhằm tôn trọng và phát huy sự đa dạng văn hóa ở địa phương."
+          ]
+        ]
+      ]
+    ]
+  ]
+}
