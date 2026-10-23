@@ -1,0 +1,2030 @@
+{
+  "id": "vat-li-10-ket-noi-tri-thuc",
+  "title": "Vật lí 10 · Kết nối tri thức với cuộc sống",
+  "sub": "Tóm tắt kiến thức · 7 chương · 34 bài",
+  "source": "SGK Vật lí 10 (Kết nối tri thức với cuộc sống) – nội dung biên soạn theo chủ đề và mục lục PDF người dùng cung cấp",
+  "chapters": [
+    [
+      "Mở đầu",
+      "Mở đầu",
+      "#0ea5a0"
+    ],
+    [
+      "Chương I",
+      "Động học",
+      "#ef6a5b"
+    ],
+    [
+      "Chương II",
+      "Động lực học",
+      "#e8920c"
+    ],
+    [
+      "Chương III",
+      "Năng lượng, công, công suất",
+      "#5b5ce6"
+    ],
+    [
+      "Chương IV",
+      "Động lượng",
+      "#e0489b"
+    ],
+    [
+      "Chương V",
+      "Chuyển động tròn đều",
+      "#8b5cf6"
+    ],
+    [
+      "Chương VI",
+      "Biến dạng của vật rắn. Áp suất chất lỏng",
+      "#0ea5a0"
+    ]
+  ],
+  "lessons": [
+    [
+      0,
+      "Bài 1",
+      "Làm quen với Vật lí",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Vật lí nghiên cứu các dạng vận động của vật chất, năng lượng và sự tương tác giữa chúng. Môn học giúp mô tả, giải thích và dự đoán hiện tượng tự nhiên bằng quan sát, đo đạc, mô hình và các định luật."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Đối tượng: vật chất, trường, năng lượng và các quá trình tương tác."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Một số lĩnh vực: cơ học, nhiệt học, điện từ học, quang học, âm học, vật lí nguyên tử và hạt nhân."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Quy trình nghiên cứu thường gồm nêu vấn đề, hình thành giả thuyết, thiết kế kiểm tra, thu thập dữ liệu, phân tích và kết luận."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Vật lí là nền tảng của nhiều công nghệ; ứng dụng cần cân nhắc an toàn và tác động môi trường."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt quan sát hiện tượng với giải thích hiện tượng.",
+            "Nêu ví dụ thiết bị trong đời sống dựa trên kiến thức vật lí."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 2",
+      "Các quy tắc an toàn trong phòng thực hành Vật lí",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Thực hành vật lí sử dụng dụng cụ đo, nguồn điện, vật nóng, vật chuyển động và đôi khi là laser hoặc hóa chất. An toàn là điều kiện bắt buộc trước, trong và sau thí nghiệm."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Đọc hướng dẫn và nhận diện nguy cơ trước khi lắp dụng cụ; chỉ làm theo phương án được giáo viên cho phép."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Kiểm tra dây dẫn, nguồn điện, giá đỡ và dụng cụ; không dùng thiết bị nứt vỡ, dây hở hoặc quá giới hạn đo."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Ngắt nguồn trước khi thay đổi mạch; không chạm phần dẫn điện trần; giữ tay khô."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Với vật nóng/chuyển động: dùng kẹp, giữ khoảng cách, cố định thiết bị và không đứng trên đường chuyển động."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 5",
+          [
+            "Báo ngay sự cố, không tự xử lí khi chưa được hướng dẫn; thu dọn và trả dụng cụ đúng nơi."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Nêu các nguy cơ có thể gặp trong một thí nghiệm và cách phòng tránh.",
+            "Giải thích vì sao cần ngắt nguồn trước khi thay đổi cách mắc mạch."
+          ]
+        ]
+      ]
+    ],
+    [
+      0,
+      "Bài 3",
+      "Thực hành: Tính sai số trong phép đo. Ghi kết quả đo",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Phép đo luôn có độ không chắc chắn. Kết quả cần ghi kèm đơn vị và sai số để thể hiện mức độ tin cậy, không chỉ ghi một con số đơn lẻ."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Độ chia nhỏ nhất (ĐCNN) cho biết giá trị ứng với một vạch chia nhỏ nhất của dụng cụ; giới hạn đo (GHĐ) là giá trị lớn nhất dụng cụ đo được."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Đo lặp nhiều lần giúp giảm ảnh hưởng của sai số ngẫu nhiên. Giá trị trung bình: x̄ = (x₁ + x₂ + … + xₙ)/n."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Sai số tuyệt đối từng lần có thể xét qua |xᵢ − x̄|; sai số tuyệt đối trung bình: Δx_tb = (Σ|xᵢ − x̄|)/n."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Sai số dụng cụ phụ thuộc độ phân giải và quy định của dụng cụ; sai số tổng hợp cần nêu theo quy ước bài học/thí nghiệm."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 5",
+          [
+            "Ghi kết quả dạng x = x̄ ± Δx, kèm đơn vị; làm tròn giá trị và sai số đến hàng phù hợp."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "x̄ = Σxᵢ/n",
+            "Δx_tb = Σ|xᵢ − x̄|/n",
+            "Kết quả: x = x̄ ± Δx"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Đọc GHĐ và ĐCNN trước khi đo.",
+            "Đo lặp, tính trung bình, ước lượng sai số và ghi kết quả đúng quy cách."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 4",
+      "Độ dịch chuyển và quãng đường đi được",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Quãng đường mô tả tổng độ dài đường đi; độ dịch chuyển mô tả sự thay đổi vị trí từ điểm đầu đến điểm cuối và có hướng. Hai đại lượng không giống nhau trong chuyển động đổi hướng."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Quãng đường s là đại lượng vô hướng, luôn không âm và phụ thuộc đường đi thực tế."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Độ dịch chuyển là vectơ từ vị trí đầu đến vị trí cuối; trong chuyển động thẳng có thể biểu diễn bằng Δx = x₂ − x₁."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Nếu vật đi rồi quay về vị trí cũ thì quãng đường có thể lớn hơn 0 nhưng độ dịch chuyển bằng 0."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Độ lớn độ dịch chuyển không vượt quá quãng đường đi được."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "Δx = x₂ − x₁",
+            "|Δx| ≤ s"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Vẽ vectơ độ dịch chuyển cho hành trình có đổi hướng.",
+            "Phân biệt s và Δx trong ví dụ đi từ nhà đến trường rồi quay lại."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 5",
+      "Tốc độ và vận tốc",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Tốc độ cho biết mức nhanh chậm và không có hướng; vận tốc cho biết độ dịch chuyển trong một đơn vị thời gian và có hướng. Cần phân biệt tốc độ trung bình với vận tốc trung bình."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Tốc độ trung bình bằng tổng quãng đường chia tổng thời gian chuyển động."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Vận tốc trung bình bằng độ dịch chuyển chia khoảng thời gian tương ứng."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Trong chuyển động thẳng, dấu của vận tốc phụ thuộc chiều dương đã chọn; tốc độ là độ lớn của vận tốc tức thời."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Đơn vị SI của tốc độ và vận tốc là m/s; có thể đổi km/h sang m/s bằng cách chia cho 3,6."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "v_tb(tốc độ) = s/Δt",
+            "v⃗_tb = Δx⃗/Δt",
+            "1 m/s = 3,6 km/h"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính tốc độ trung bình của hành trình gồm nhiều chặng.",
+            "Chọn chiều dương và xác định dấu vận tốc trong chuyển động thẳng."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 6",
+      "Thực hành: Đo tốc độ của vật chuyển động",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Tốc độ có thể được xác định từ quãng đường và thời gian đo được, hoặc bằng cảm biến/cổng quang. Kết quả cần kèm đơn vị và đánh giá sai số."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Chọn đoạn đường đo phù hợp, đánh dấu vị trí đầu-cuối và xác định phương pháp đo thời gian."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Đo nhiều lần trong cùng điều kiện; tránh tác động làm thay đổi chuyển động của vật."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Tính tốc độ trung bình từ s và Δt; so sánh các lần đo và nêu nguồn sai số."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Nguồn sai số thường gồm phản xạ khi bấm giờ, đọc thước, độ phân giải cảm biến và việc vật không chuyển động ổn định."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "v_tb = s/Δt"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Lập bảng gồm s, Δt, v và đơn vị.",
+            "Đề xuất cách làm giảm sai số trong phép đo tốc độ."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 7",
+      "Đồ thị độ dịch chuyển – thời gian",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Đồ thị độ dịch chuyển theo thời gian biểu diễn vị trí tương đối theo thời gian. Độ dốc của đồ thị cho biết vận tốc trong khoảng đang xét."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Trục ngang thường là thời gian t; trục đứng là độ dịch chuyển d hoặc tọa độ x, có ghi đơn vị và tỉ lệ."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Đoạn thẳng có độ dốc không đổi biểu thị vận tốc không đổi; đường nằm ngang biểu thị vật đứng yên theo hệ quy chiếu đã chọn."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Độ dốc dương/âm biểu thị vận tốc theo chiều dương/âm; độ dốc càng lớn về độ lớn thì tốc độ càng lớn."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Đồ thị có thể gồm nhiều đoạn để biểu diễn chuyển động thay đổi theo từng giai đoạn."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "v = Δd/Δt"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Đọc vị trí tại thời điểm cho trước từ đồ thị.",
+            "Tính vận tốc từ độ dốc và mô tả các giai đoạn chuyển động."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 8",
+      "Chuyển động biến đổi. Gia tốc",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Chuyển động biến đổi là chuyển động có vận tốc thay đổi theo thời gian. Gia tốc đặc trưng cho mức thay đổi vận tốc theo thời gian và là đại lượng vectơ."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Gia tốc trung bình bằng độ biến thiên vận tốc chia khoảng thời gian xảy ra biến thiên."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Trong chuyển động thẳng, gia tốc cùng dấu với chiều tăng vận tốc có dấu; gia tốc ngược dấu vận tốc thường làm tốc độ giảm."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Đơn vị SI của gia tốc là m/s²."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Cần xác định hệ quy chiếu, chiều dương và dấu của vận tốc, gia tốc trước khi tính toán."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "a_tb = Δv/Δt = (v − v₀)/Δt"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính gia tốc khi biết vận tốc đầu, vận tốc cuối và thời gian.",
+            "Phân biệt chuyển động nhanh dần và chậm dần qua dấu v và a."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 9",
+      "Chuyển động thẳng biến đổi đều",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Trong chuyển động thẳng biến đổi đều, gia tốc không đổi. Các phương trình liên hệ vị trí, vận tốc, gia tốc và thời gian giúp giải bài toán khi các điều kiện phù hợp."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Vận tốc biến thiên tuyến tính theo thời gian khi gia tốc không đổi."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Độ dịch chuyển trong khoảng thời gian t có thể tính từ vận tốc đầu và gia tốc."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Phương trình không chứa thời gian liên hệ vận tốc, vận tốc đầu, gia tốc và độ dịch chuyển."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Chọn dấu nhất quán theo chiều dương; không nhầm quãng đường với độ dịch chuyển khi vật đổi chiều."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "v = v₀ + at",
+            "d = v₀t + ½at²",
+            "v² − v₀² = 2ad",
+            "d = (v₀ + v)t/2"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Xác định đại lượng đã biết và cần tìm trước khi chọn công thức.",
+            "Kiểm tra đơn vị và dấu của kết quả; đối chiếu với ý nghĩa vật lí."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 10",
+      "Sự rơi tự do",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Rơi tự do là chuyển động chỉ chịu tác dụng của trọng lực, có thể xem gần đúng khi lực cản không khí không đáng kể. Gần mặt đất, gia tốc rơi tự do có phương thẳng đứng, chiều xuống."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Trong mô hình rơi tự do, gia tốc có độ lớn g, gần mặt đất thường lấy xấp xỉ 9,8 m/s² hoặc 10 m/s² theo đề bài."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Nếu vật được thả không vận tốc đầu và chọn chiều xuống là chiều dương thì v = gt và h = ½gt²."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Vật có hình dạng, diện tích cản và môi trường khác nhau có thể rơi khác nhau khi lực cản không khí đáng kể."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Cần phân biệt mô hình lí tưởng với chuyển động thực tế trong không khí."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "v = gt",
+            "h = ½gt²",
+            "v² = 2gh"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính thời gian rơi hoặc vận tốc khi chạm đất trong điều kiện bỏ qua lực cản.",
+            "Nêu điều kiện để có thể coi một chuyển động là rơi tự do."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 11",
+      "Thực hành: Đo gia tốc rơi tự do",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Có thể xác định g bằng cách đo thời gian rơi của vật từ độ cao biết trước, hoặc dùng thiết bị đo thời gian phù hợp. Cần lặp phép đo để tăng độ tin cậy."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Đo độ cao h từ vị trí thả đến mặt tiếp xúc theo đúng quy ước."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Thả vật không tạo vận tốc ban đầu; đo thời gian rơi nhiều lần."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Từ mô hình rơi tự do h = ½gt², suy ra g = 2h/t² nếu điều kiện thí nghiệm phù hợp."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Sai số đến từ đo độ cao, xác định thời điểm bắt đầu/kết thúc, sức cản không khí và cách thả vật."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "g = 2h/t²"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính g từ dữ liệu đo và so sánh với giá trị tham khảo.",
+            "Đề xuất cách giảm sai số và giải thích vì sao nên đo lặp."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Bài 12",
+      "Chuyển động ném",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Chuyển động ném có thể phân tích thành hai chuyển động thành phần theo hai phương vuông góc. Khi bỏ qua lực cản không khí, chuyển động ngang đều còn chuyển động thẳng đứng có gia tốc g."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Với ném ngang, vận tốc ban đầu nằm ngang; theo phương ngang, x = v₀t; theo phương thẳng đứng, độ rơi h = ½gt²."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Quỹ đạo ném ngang là đường parabol trong mô hình lí tưởng."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Thời gian rơi từ độ cao h phụ thuộc h và g, không phụ thuộc vận tốc ném ngang."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Khi ném xiên, cần phân tích vận tốc đầu thành thành phần ngang và đứng; dấu thành phần đứng tùy quy ước."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "x = v₀t",
+            "h = ½gt²",
+            "t = √(2h/g)",
+            "L = v₀√(2h/g)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính tầm xa của vật ném ngang từ độ cao đã biết.",
+            "Giải thích độc lập tương đối của hai chuyển động thành phần."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 13",
+      "Tổng hợp và phân tích lực. Cân bằng lực",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Lực là đại lượng vectơ đặc trưng cho tác dụng đẩy, kéo của vật này lên vật khác. Nhiều lực đồng thời tác dụng có thể thay bằng hợp lực tương đương về tác dụng chuyển động."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Biểu diễn lực bằng vectơ có điểm đặt, phương, chiều và độ lớn."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Hợp lực là tổng vectơ các lực thành phần; với hai lực cùng phương cùng chiều thì độ lớn cộng, ngược chiều thì lấy hiệu."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Với hai lực vuông góc, độ lớn hợp lực tính theo định lí Pythagore."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Vật cân bằng khi hợp lực tác dụng bằng vectơ không; điều đó không nhất thiết có nghĩa là không có lực nào tác dụng."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "F⃗_hợp = ΣF⃗",
+            "Hai lực vuông góc: F = √(F₁² + F₂²)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Vẽ sơ đồ lực và chọn tỉ lệ vectơ.",
+            "Tìm hợp lực hoặc kiểm tra điều kiện cân bằng."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 14",
+      "Định luật 1 Newton",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Nếu một vật không chịu lực nào hoặc hợp lực tác dụng lên vật bằng không, vật đang đứng yên tiếp tục đứng yên, vật đang chuyển động tiếp tục chuyển động thẳng đều. Đây là tính quán tính."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Trạng thái chuyển động chỉ thay đổi khi hợp lực khác không."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Quán tính là xu hướng bảo toàn trạng thái đứng yên hoặc chuyển động thẳng đều."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Lực không duy trì vận tốc; lực tổng hợp gây ra sự thay đổi vận tốc."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Định luật đúng trong hệ quy chiếu quán tính."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "ΣF⃗ = 0 ⇒ a⃗ = 0"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Giải thích hiện tượng người chúi về trước khi xe phanh.",
+            "Phân biệt hợp lực bằng không với không có lực tác dụng."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 15",
+      "Định luật 2 Newton",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Gia tốc của vật cùng hướng với hợp lực tác dụng, có độ lớn tỉ lệ thuận với hợp lực và tỉ lệ nghịch với khối lượng. Khối lượng đo mức quán tính của vật."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Cần xét tổng hợp tất cả các lực ngoài tác dụng lên vật."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Trong hệ SI, lực đo bằng niutơn (N), khối lượng bằng kilôgam (kg), gia tốc bằng m/s²."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Nếu hợp lực không đổi và khối lượng không đổi thì gia tốc không đổi."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Bài toán thường cần vẽ sơ đồ lực, chọn trục, chiếu phương trình vectơ lên các trục rồi giải."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "ΣF⃗ = m a⃗",
+            "1 N = 1 kg·m/s²"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính gia tốc khi biết hợp lực và khối lượng.",
+            "Tìm lực chưa biết từ khối lượng và gia tốc."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 16",
+      "Định luật 3 Newton",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Khi vật A tác dụng lực lên vật B, vật B đồng thời tác dụng lại vật A một lực. Hai lực tương tác cùng phương, ngược chiều, cùng độ lớn nhưng đặt lên hai vật khác nhau."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Lực và phản lực xuất hiện đồng thời, cùng mất đi khi tương tác chấm dứt."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Hai lực không cân bằng nhau vì tác dụng lên hai vật khác nhau."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Lực tiếp xúc và lực không tiếp xúc đều có cặp lực tương tác."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Không nhầm phản lực theo định luật III với lực cân bằng tác dụng lên cùng một vật."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "F⃗_AB = −F⃗_BA"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Chỉ ra cặp lực tương tác trong việc đi bộ hoặc bơi.",
+            "Giải thích vì sao lực và phản lực không triệt tiêu nhau trên cùng một vật."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 17",
+      "Trọng lực và lực căng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Trọng lực là lực hút của Trái Đất tác dụng lên vật; lực căng xuất hiện trong dây, sợi hoặc cáp khi bị kéo căng. Phân tích đúng các lực là bước quan trọng để giải bài toán cơ học."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Trọng lực có phương thẳng đứng, chiều hướng về tâm Trái Đất; gần mặt đất độ lớn P = mg."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Trọng lượng là độ lớn của trọng lực; khối lượng là đại lượng đặc trưng cho quán tính, không đồng nhất với trọng lượng."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Lực căng dây có phương dọc theo dây và kéo vật về phía phần dây còn lại; dây lí tưởng được coi nhẹ, không dãn trong mô hình đơn giản."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Vẽ lực tác dụng lên từng vật riêng biệt, không đưa lực vật tác dụng lên vật khác vào sơ đồ lực của vật đang xét."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "P = mg"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Vẽ sơ đồ lực của vật treo đứng yên bằng dây.",
+            "Tính trọng lực khi biết khối lượng và g."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 18",
+      "Lực ma sát",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Lực ma sát xuất hiện tại bề mặt tiếp xúc và chống lại xu hướng trượt hoặc chuyển động tương đối giữa các bề mặt. Ma sát có thể có ích hoặc gây hao mòn, sinh nhiệt."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Ma sát nghỉ điều chỉnh để ngăn trượt, độ lớn thay đổi theo tình huống cho đến giá trị cực đại."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Ma sát trượt xuất hiện khi hai bề mặt trượt tương đối; mô hình đơn giản thường dùng F_ms = μN."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Lực ma sát thường phụ thuộc tính chất bề mặt và lực ép vuông góc; công thức cụ thể cần theo mô hình và dữ kiện bài."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Chiều ma sát ngược chiều chuyển động tương đối hoặc xu hướng trượt tại mặt tiếp xúc, không nhất thiết ngược chiều vận tốc của vật trong mọi tình huống."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "F_ms = μN (mô hình ma sát trượt đơn giản)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Xác định chiều lực ma sát trên vật đang bị kéo.",
+            "Nêu ví dụ ma sát có ích và có hại."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 19",
+      "Lực cản và lực nâng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Trong chất lưu (khí hoặc lỏng), vật chuyển động có thể chịu lực cản của môi trường. Dòng chất lưu quanh vật cũng có thể tạo ra lực nâng trong các điều kiện thích hợp."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Lực cản thường hướng ngược chiều chuyển động tương đối giữa vật và chất lưu."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Độ lớn lực cản phụ thuộc tốc độ tương đối, hình dạng, diện tích đặc trưng và tính chất chất lưu."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Tạo hình khí động học giúp giảm lực cản; dù lực cản có thể bất lợi, nó cũng giúp dù giảm tốc khi rơi."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Lực nâng liên quan đến tương tác giữa vật và dòng chất lưu; giải thích định lượng phụ thuộc mô hình dòng chảy."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Giải thích tác dụng của dù hoặc thiết kế thân xe khí động học.",
+            "Phân biệt lực cản môi trường với lực ma sát giữa hai bề mặt rắn."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 20",
+      "Một số ví dụ về cách giải các bài toán thuộc phần động lực học",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Giải bài toán động lực học cần chuyển tình huống thực tế thành mô hình lực và phương trình. Quy trình có hệ thống giúp hạn chế nhầm dấu và bỏ sót lực."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Chọn vật hoặc hệ vật cần xét; nêu giả thiết và chọn hệ quy chiếu."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Vẽ sơ đồ lực riêng cho vật; xác định phương, chiều và biểu thức các lực."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Chọn trục tọa độ thuận tiện, chiếu định luật II Newton lên từng trục."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Kết hợp quan hệ động học hoặc điều kiện cân bằng để tìm đại lượng chưa biết; kiểm tra đơn vị và tính hợp lí."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 5",
+          [
+            "Với hệ nhiều vật, xét từng vật và liên hệ gia tốc/dây nối theo giả thiết của bài."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "ΣF_x = ma_x; ΣF_y = ma_y"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Giải bài vật trên mặt phẳng ngang có lực kéo và ma sát.",
+            "Trình bày lời giải theo sơ đồ lực, phương trình và kết luận."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 21",
+      "Moment lực. Cân bằng của vật rắn",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Moment lực mô tả tác dụng làm quay của lực quanh trục. Vật rắn cân bằng cần thỏa mãn điều kiện cân bằng lực và cân bằng moment trong mô hình tĩnh học."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Tác dụng làm quay phụ thuộc độ lớn lực và cánh tay đòn, là khoảng cách vuông góc từ trục quay đến giá của lực."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Moment lực có đơn vị N·m; dấu moment phụ thuộc quy ước chiều quay."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Với vật rắn cân bằng, tổng lực và tổng moment đối với trục thích hợp bằng không."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Đòn bẩy giúp đổi lực lấy quãng đường hoặc thay đổi vị trí tác dụng lực; cần xác định đúng cánh tay đòn."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "M = F·d",
+            "ΣM = 0 (điều kiện cân bằng quay)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính moment lực trong tình huống có trục quay cố định.",
+            "Dùng điều kiện tổng moment bằng không để tìm lực chưa biết."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Bài 22",
+      "Thực hành: Tổng hợp lực",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Thí nghiệm tổng hợp lực kiểm tra mối quan hệ giữa các lực thành phần và hợp lực bằng dụng cụ như lực kế, dây và vòng/điểm đồng quy."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Hiệu chuẩn hoặc kiểm tra lực kế, xác định độ chia và đơn vị trước khi đo."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Bố trí các lực đồng quy, đọc độ lớn và hướng; giữ hệ cân bằng khi cần xác định hợp lực cân bằng."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Hợp lực của các lực thành phần có độ lớn và hướng được xác định bằng phép cộng vectơ."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "So sánh kết quả thực nghiệm với kết quả dựng hình hoặc tính toán; nêu sai số và nguyên nhân."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Vẽ giản đồ lực theo tỉ lệ từ số đo lực kế.",
+            "Nêu cách hạn chế ma sát và sai số khi đọc hướng lực."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 23",
+      "Năng lượng. Công cơ học",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Năng lượng đặc trưng cho khả năng thực hiện công hoặc gây ra biến đổi. Công cơ học được thực hiện khi lực gây ra độ dịch chuyển có thành phần theo phương lực."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Năng lượng có nhiều dạng và có thể chuyển hóa giữa các dạng; đơn vị SI là joule (J)."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Công của lực không đổi bằng tích vô hướng giữa vectơ lực và độ dịch chuyển."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Nếu lực cùng hướng chuyển động, công dương; ngược hướng, công âm; vuông góc với độ dịch chuyển, công bằng không."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Công là đại lượng vô hướng có dấu; cần xét góc giữa lực và độ dịch chuyển."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "A = F s cosα",
+            "1 J = 1 N·m"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Xác định dấu công của lực kéo, ma sát và trọng lực trong một tình huống.",
+            "Tính công khi biết lực, độ dịch chuyển và góc."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 24",
+      "Công suất",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Công suất cho biết tốc độ thực hiện công hoặc tốc độ truyền năng lượng. Cùng một công, thiết bị có công suất lớn hơn thực hiện trong thời gian ngắn hơn."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Công suất trung bình bằng công thực hiện chia khoảng thời gian."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Công suất tức thời của lực có thể liên hệ với lực và vận tốc theo hướng lực."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Đơn vị SI là watt (W); 1 W = 1 J/s."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Khi so sánh thiết bị, cần phân biệt công suất với năng lượng tiêu thụ và hiệu suất."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "P = A/Δt",
+            "P = Fv cosα"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính công suất từ công và thời gian.",
+            "Giải thích ý nghĩa định lượng của công suất ghi trên thiết bị."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 25",
+      "Động năng, thế năng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Động năng liên quan đến chuyển động; thế năng phụ thuộc vị trí hoặc cấu hình tương tác. Cả hai đều là dạng năng lượng có thể chuyển hóa trong quá trình chuyển động."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Động năng của vật khối lượng m chuyển động với tốc độ v tăng theo khối lượng và bình phương tốc độ."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Thế năng trọng trường gần mặt đất phụ thuộc m, g và độ cao so với mốc chọn."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Mốc thế năng có thể chọn tùy ý; độ biến thiên thế năng mới gắn với sự biến đổi năng lượng do trọng lực."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Công của lực có thể làm thay đổi động năng; cần phân biệt năng lượng với lực và công."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "Wđ = ½mv²",
+            "Wt = mgh (gần mặt đất, chọn mốc thích hợp)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính động năng, thế năng tại vị trí đã cho.",
+            "Phân tích sự chuyển hóa giữa động năng và thế năng khi vật rơi."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 26",
+      "Cơ năng và định luật bảo toàn cơ năng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Cơ năng trong mô hình cơ học thường là tổng động năng và thế năng. Khi chỉ có các lực bảo toàn thực hiện công và có thể bỏ qua lực cản, cơ năng được bảo toàn."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Cơ năng có thể chuyển từ động năng sang thế năng và ngược lại."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Với vật trong trọng trường, cơ năng gồm động năng và thế năng trọng trường theo mốc đã chọn."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Ma sát và lực cản thường chuyển một phần cơ năng thành nội năng; khi đó cơ năng cơ học không còn bảo toàn."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Áp dụng định luật cần nêu rõ điều kiện, chọn mốc thế năng và viết trạng thái đầu – cuối."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "W = Wđ + Wt",
+            "W₁ = W₂ khi cơ năng bảo toàn"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính tốc độ ở độ cao khác bằng bảo toàn cơ năng trong trường hợp lí tưởng.",
+            "Nêu vì sao có ma sát thì cơ năng cơ học giảm."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Bài 27",
+      "Hiệu suất",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Hiệu suất cho biết phần năng lượng hoặc công có ích so với năng lượng/công cung cấp. Hiệu suất thực tế không vượt quá 100% vì luôn có phần năng lượng chuyển thành các dạng không mong muốn."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Xác định rõ năng lượng đầu vào, phần có ích và phần hao phí."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Hiệu suất thường được biểu diễn bằng phần trăm."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Hiệu suất cao nghĩa là tỉ lệ có ích lớn hơn, không nhất thiết công suất hoặc năng lượng tiêu thụ tuyệt đối nhỏ hơn trong mọi tình huống."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Có thể tính từ công có ích/công toàn phần hoặc năng lượng có ích/năng lượng cung cấp."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "H = (A_có ích/A_toàn phần) × 100%",
+            "H = (E_có ích/E_cung cấp) × 100%"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính hiệu suất của máy khi biết công đầu vào và công có ích.",
+            "Nêu các nguyên nhân làm giảm hiệu suất."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 28",
+      "Động lượng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Động lượng là đại lượng vectơ đặc trưng cho trạng thái chuyển động của vật, phụ thuộc khối lượng và vận tốc. Động lượng hữu ích khi phân tích va chạm và tương tác trong thời gian ngắn."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Động lượng cùng hướng với vận tốc; đơn vị SI là kg·m/s."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Động lượng thay đổi khi vận tốc hoặc khối lượng thay đổi."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Xung lượng của lực liên hệ với độ biến thiên động lượng; lực lớn tác dụng trong thời gian ngắn có thể tạo biến thiên động lượng đáng kể."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Cần giữ tính vectơ, đặc biệt trong va chạm một chiều có chiều chuyển động ngược nhau."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "p⃗ = m v⃗",
+            "J⃗ = F⃗Δt = Δp⃗ (lực không đổi)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính động lượng của vật chuyển động theo chiều đã chọn.",
+            "So sánh động lượng của hai vật khác khối lượng và vận tốc."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 29",
+      "Định luật bảo toàn động lượng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Trong hệ cô lập hoặc hệ có tổng ngoại lực không đáng kể trong khoảng xét, tổng động lượng của hệ được bảo toàn. Định luật đặc biệt hữu ích trong va chạm và phân tách vật."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Chọn hệ vật và xác định ngoại lực; chỉ áp dụng bảo toàn khi điều kiện phù hợp."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Tổng động lượng là tổng vectơ động lượng của các vật trong hệ."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Trong va chạm một chiều, chọn chiều dương để biểu diễn vận tốc có dấu."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Bảo toàn động lượng không đồng nghĩa bảo toàn động năng; va chạm có thể làm cơ năng chuyển thành nhiệt, âm hoặc biến dạng."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "Σp⃗_trước = Σp⃗_sau"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Lập phương trình động lượng trước và sau va chạm.",
+            "Phân biệt va chạm đàn hồi và không đàn hồi ở mức khái niệm."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Bài 30",
+      "Thực hành: Xác định động lượng của vật trước và sau va chạm",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Thí nghiệm va chạm giúp kiểm tra định luật bảo toàn động lượng bằng cách đo khối lượng và vận tốc trước/sau tương tác."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Xác định hệ vật, đo khối lượng từng vật và thiết lập chiều dương."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Đo vận tốc trước và sau va chạm bằng thiết bị thích hợp; ghi rõ dấu vận tốc."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Tính tổng động lượng của hệ trước và sau, so sánh độ chênh lệch với sai số đo."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Sai số có thể do ma sát đường chạy, va chạm không hoàn toàn theo một chiều, đọc cảm biến và ngoại lực chưa triệt tiêu."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "p_trước = Σmᵢvᵢ; p_sau = Σmᵢvᵢ"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Lập bảng khối lượng, vận tốc và động lượng trước/sau.",
+            "Giải thích vì sao kết quả thực nghiệm có thể không trùng khớp tuyệt đối."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 31",
+      "Động học của chuyển động tròn đều",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Chuyển động tròn đều có quỹ đạo tròn và tốc độ không đổi, nhưng hướng vận tốc luôn thay đổi. Chuyển động được mô tả bằng chu kì, tần số, tốc độ góc và tốc độ dài."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Chu kì T là thời gian thực hiện một vòng; tần số f là số vòng trong một giây."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Tốc độ góc mô tả góc quét trong một đơn vị thời gian; với chuyển động tròn đều nó không đổi."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Tốc độ dài liên hệ với bán kính và tốc độ góc; chiều vận tốc tiếp tuyến với quỹ đạo."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Đơn vị: T là giây, f là hertz, ω là rad/s, v là m/s."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "f = 1/T",
+            "ω = 2π/T = 2πf",
+            "v = ωr = 2πr/T"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính tốc độ dài hoặc tốc độ góc khi biết bán kính và chu kì.",
+            "Đổi giữa chu kì và tần số."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Bài 32",
+      "Lực hướng tâm và gia tốc hướng tâm",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Trong chuyển động tròn đều, vận tốc đổi hướng nên vật có gia tốc hướng vào tâm. Hợp lực theo phương bán kính tạo ra gia tốc hướng tâm, không phải là một loại lực riêng biệt."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Gia tốc hướng tâm hướng vào tâm quỹ đạo và có độ lớn tăng khi tốc độ tăng hoặc bán kính giảm."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Lực hướng tâm là tên gọi hợp lực theo phương hướng tâm; lực này có thể do lực căng, ma sát, trọng lực hoặc hợp lực của nhiều lực tạo ra."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Khi lập sơ đồ lực, vẽ các lực thực tế trước rồi xác định hợp lực hướng tâm."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Nếu thiếu lực hướng tâm cần thiết, vật không thể tiếp tục đi theo quỹ đạo tròn như mô hình."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "a_ht = v²/r = ω²r",
+            "F_ht = mv²/r = mω²r"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Xác định lực nào đóng vai trò lực hướng tâm trong các ví dụ.",
+            "Tính lực hướng tâm từ khối lượng, tốc độ và bán kính."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 33",
+      "Biến dạng của vật rắn",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Vật rắn có thể thay đổi hình dạng hoặc kích thước khi chịu tác dụng lực. Biến dạng phụ thuộc vật liệu, hình dạng, kích thước và độ lớn/cách đặt lực."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Biến dạng đàn hồi mất đi khi lực thôi tác dụng trong giới hạn đàn hồi; biến dạng dẻo còn lại sau khi bỏ lực."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Kéo, nén, uốn và xoắn là các dạng biến dạng thường gặp."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Trong giới hạn đàn hồi, độ biến dạng có thể tỉ lệ với lực theo mô hình và điều kiện cụ thể."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Không được vượt quá giới hạn cho phép của vật liệu khi thiết kế hoặc sử dụng."
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Phân biệt biến dạng đàn hồi và biến dạng dẻo bằng ví dụ.",
+            "Giải thích vì sao vật liệu và kích thước ảnh hưởng độ biến dạng."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Bài 34",
+      "Khối lượng riêng. Áp suất chất lỏng",
+      0,
+      [
+        [
+          "d",
+          "Khái quát",
+          [
+            "Khối lượng riêng là khối lượng trên một đơn vị thể tích. Áp suất chất lỏng đứng yên tăng theo độ sâu và phụ thuộc khối lượng riêng của chất lỏng, gia tốc trọng trường."
+          ]
+        ],
+        [
+          "d",
+          "Kiến thức trọng tâm 1",
+          [
+            "Khối lượng riêng được xác định từ khối lượng và thể tích; đơn vị SI là kg/m³."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 2",
+          [
+            "Áp suất là độ lớn lực ép vuông góc trên một đơn vị diện tích; đơn vị là pascal (Pa)."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 3",
+          [
+            "Trong chất lỏng đứng yên, áp suất do chất lỏng tại độ sâu h (so với mặt thoáng) phụ thuộc ρ, g và h; áp suất tuyệt đối còn có thể bao gồm áp suất trên mặt thoáng."
+          ]
+        ],
+        [
+          "f",
+          "Kiến thức trọng tâm 4",
+          [
+            "Ở cùng độ sâu trong cùng chất lỏng đứng yên, áp suất như nhau; áp suất không phụ thuộc hình dạng bình trong mô hình thủy tĩnh."
+          ]
+        ],
+        [
+          "f",
+          "Công thức cần nhớ",
+          [
+            "ρ = m/V",
+            "p = F/S",
+            "p_chất_lỏng = ρgh (áp suất dư do cột chất lỏng)"
+          ]
+        ],
+        [
+          "q",
+          "Câu hỏi ôn tập",
+          [
+            "Tính khối lượng riêng từ m và V.",
+            "So sánh áp suất tại hai độ sâu hoặc trong hai chất lỏng."
+          ]
+        ]
+      ]
+    ]
+  ]
+}

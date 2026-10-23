@@ -1,0 +1,598 @@
+{
+ "id": "toan10-tap1",
+ "title": "Toán 10 · Tập một",
+ "sub": "Tóm tắt toàn bộ kiến thức · 5 chương · 14 bài · 2 hoạt động thực hành",
+ "source": "SGK Toán 10 (Kết nối tri thức với cuộc sống) – Tập một",
+ "chapters": [
+  [
+   "Chương I",
+   "Mệnh đề và tập hợp",
+   "#ef6a5b"
+  ],
+  [
+   "Chương II",
+   "Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+   "#e8920c"
+  ],
+  [
+   "Chương III",
+   "Hệ thức lượng trong tam giác",
+   "#0ea5a0"
+  ],
+  [
+   "Chương IV",
+   "Vectơ",
+   "#5b5ce6"
+  ],
+  [
+   "Chương V",
+   "Các số đặc trưng của mẫu số liệu không ghép nhóm",
+   "#e0489b"
+  ],
+  [
+   "Thực hành",
+   "Hoạt động thực hành trải nghiệm",
+   "#8b5cf6"
+  ]
+ ],
+ "lessons": [
+  [
+   0,
+   "Bài 1",
+   "Mệnh đề",
+   5,
+   [
+    [
+     "d",
+     "Mệnh đề và mệnh đề chứa biến",
+     [
+      "<b>Mệnh đề</b> là khẳng định hoặc đúng hoặc sai (không thể vừa đúng vừa sai). Câu hỏi, câu cảm thán, câu cầu khiến không phải mệnh đề.",
+      "<b>Mệnh đề chứa biến</b>: câu chứa biến, chưa xác định đúng/sai; gán giá trị cho biến thì thành mệnh đề (vd: “n chia hết cho 2”)."
+     ]
+    ],
+    [
+     "d",
+     "Mệnh đề phủ định",
+     [
+      "Phủ định của mệnh đề P kí hiệu P̄ (thêm/bớt “không”, “không phải”).",
+      "P đúng thì P̄ sai; P sai thì P̄ đúng."
+     ]
+    ],
+    [
+     "d",
+     "Mệnh đề kéo theo và mệnh đề đảo",
+     [
+      "<b>Kéo theo</b> “Nếu P thì Q”, kí hiệu P ⇒ Q. Chỉ <b>sai</b> khi P đúng và Q sai.",
+      "P là <b>giả thiết</b> (điều kiện đủ để có Q); Q là <b>kết luận</b> (điều kiện cần để có P).",
+      "<b>Mệnh đề đảo</b> của P ⇒ Q là Q ⇒ P (đảo của một mệnh đề đúng chưa chắc đúng)."
+     ]
+    ],
+    [
+     "d",
+     "Mệnh đề tương đương",
+     [
+      "P ⇔ Q khi cả P ⇒ Q và Q ⇒ P đều đúng. Đọc: “P tương đương Q”, “P khi và chỉ khi Q”, “P là điều kiện cần và đủ để có Q”."
+     ]
+    ],
+    [
+     "f",
+     "Kí hiệu ∀, ∃ và phủ định",
+     [
+      "∀ : “với mọi”  ·  ∃ : “tồn tại”",
+      "Phủ định của “∀x ∈ X, P(x)” là “∃x ∈ X, P̄(x)”",
+      "Phủ định của “∃x ∈ X, P(x)” là “∀x ∈ X, P̄(x)”"
+     ]
+    ]
+   ]
+  ],
+  [
+   0,
+   "Bài 2",
+   "Tập hợp và các phép toán trên tập hợp",
+   12,
+   [
+    [
+     "d",
+     "Tập hợp",
+     [
+      "a ∈ A (a thuộc A), a ∉ A. Cho tập hợp bằng cách <b>liệt kê</b> phần tử hoặc nêu <b>tính chất đặc trưng</b>.",
+      "<b>Tập rỗng</b> ∅: không chứa phần tử nào."
+     ]
+    ],
+    [
+     "d",
+     "Tập con, hai tập hợp bằng nhau",
+     [
+      "A ⊂ B nếu mọi phần tử của A đều thuộc B. Luôn có ∅ ⊂ A và A ⊂ A.",
+      "A = B ⇔ A ⊂ B và B ⊂ A."
+     ]
+    ],
+    [
+     "f",
+     "Các tập số",
+     [
+      "N* ⊂ N ⊂ Z ⊂ Q ⊂ R",
+      "Khoảng: (a; b), (a; +∞), (−∞; b)  ·  Đoạn: [a; b]  ·  Nửa khoảng: [a; b), (a; b]"
+     ]
+    ],
+    [
+     "f",
+     "Các phép toán",
+     [
+      "Giao: A ∩ B = {x | x ∈ A và x ∈ B}",
+      "Hợp: A ∪ B = {x | x ∈ A hoặc x ∈ B}",
+      "Hiệu: A \\ B = {x | x ∈ A và x ∉ B}",
+      "Phần bù (A ⊂ E): C<sub>E</sub>A = E \\ A"
+     ]
+    ]
+   ]
+  ],
+  [
+   1,
+   "Bài 3",
+   "Bất phương trình bậc nhất hai ẩn",
+   22,
+   [
+    [
+     "d",
+     "Khái niệm",
+     [
+      "Dạng: ax + by ≤ c (hoặc &lt;, ≥, &gt;) với a, b không đồng thời bằng 0.",
+      "Cặp số (x₀; y₀) thỏa bất phương trình gọi là một <b>nghiệm</b>. Tập hợp mọi nghiệm là <b>miền nghiệm</b>."
+     ]
+    ],
+    [
+     "g",
+     "Cách biểu diễn miền nghiệm",
+     [
+      "<b>B1.</b> Vẽ đường thẳng d: ax + by = c.",
+      "<b>B2.</b> Lấy điểm (x₀; y₀) không thuộc d (thường là O(0; 0)), thay vào biểu thức ax + by.",
+      "<b>B3.</b> Nếu thỏa bất phương trình thì miền nghiệm là nửa mặt phẳng bờ d chứa điểm đó; nếu không thì là nửa mặt phẳng còn lại."
+     ]
+    ],
+    [
+     "n",
+     "Lưu ý",
+     [
+      "Bất đẳng thức ngặt (&lt;, &gt;): bờ d vẽ <b>nét đứt</b>, không thuộc miền nghiệm. Bất đẳng thức không ngặt (≤, ≥): bờ thuộc miền nghiệm."
+     ]
+    ]
+   ]
+  ],
+  [
+   1,
+   "Bài 4",
+   "Hệ bất phương trình bậc nhất hai ẩn",
+   26,
+   [
+    [
+     "d",
+     "Hệ bất phương trình",
+     [
+      "Gồm một số bất phương trình bậc nhất hai ẩn; <b>nghiệm</b> là nghiệm chung của tất cả các bất phương trình.",
+      "Miền nghiệm của hệ = <b>giao</b> các miền nghiệm của từng bất phương trình (có thể là miền đa giác hoặc miền không giới hạn)."
+     ]
+    ],
+    [
+     "f",
+     "Bài toán tối ưu",
+     [
+      "F(x; y) = ax + by đạt giá trị lớn nhất / nhỏ nhất trên miền đa giác tại một <b>đỉnh</b> của đa giác."
+     ]
+    ],
+    [
+     "g",
+     "Các bước giải",
+     [
+      "Xác định miền nghiệm của hệ (đa giác).",
+      "Tìm toạ độ các đỉnh.",
+      "Tính F tại từng đỉnh rồi so sánh để chọn giá trị lớn nhất, nhỏ nhất."
+     ]
+    ]
+   ]
+  ],
+  [
+   2,
+   "Bài 5",
+   "Giá trị lượng giác của một góc từ 0° đến 180°",
+   33,
+   [
+    [
+     "d",
+     "Định nghĩa (nửa đường tròn đơn vị)",
+     [
+      "Với M(x₀; y₀) trên nửa đường tròn đơn vị, α = ∠xOM:",
+      "sin α = y₀  ·  cos α = x₀",
+      "tan α = {y₀|x₀} (α ≠ 90°)  ·  cot α = {x₀|y₀} (α ≠ 0°, 180°)"
+     ]
+    ],
+    [
+     "f",
+     "Hai góc bù nhau",
+     [
+      "sin(180° − α) = sin α  ·  cos(180° − α) = −cos α",
+      "tan(180° − α) = −tan α  ·  cot(180° − α) = −cot α"
+     ]
+    ],
+    [
+     "f",
+     "Hệ thức cơ bản",
+     [
+      "sin²α + cos²α = 1",
+      "1 + tan²α = {1|cos²α} (α ≠ 90°)  ·  1 + cot²α = {1|sin²α} (α ≠ 0°, 180°)"
+     ]
+    ],
+    [
+     "d",
+     "Giá trị đặc biệt",
+     "<div class=\"tw\"><table><tr><th>α</th><th>0°</th><th>30°</th><th>45°</th><th>60°</th><th>90°</th><th>120°</th><th>135°</th><th>150°</th><th>180°</th></tr><tr><td>sin</td><td>0</td><td>½</td><td>√2/2</td><td>√3/2</td><td>1</td><td>√3/2</td><td>√2/2</td><td>½</td><td>0</td></tr><tr><td>cos</td><td>1</td><td>√3/2</td><td>√2/2</td><td>½</td><td>0</td><td>−½</td><td>−√2/2</td><td>−√3/2</td><td>−1</td></tr><tr><td>tan</td><td>0</td><td>√3/3</td><td>1</td><td>√3</td><td>∄</td><td>−√3</td><td>−1</td><td>−√3/3</td><td>0</td></tr></table></div>"
+    ]
+   ]
+  ],
+  [
+   2,
+   "Bài 6",
+   "Hệ thức lượng trong tam giác",
+   38,
+   [
+    [
+     "f",
+     "Định lí côsin",
+     [
+      "a² = b² + c² − 2bc·cos A  (tương tự cho b², c²)",
+      "cos A = {b² + c² − a²|2bc}"
+     ]
+    ],
+    [
+     "f",
+     "Định lí sin",
+     [
+      "{a|sin A} = {b|sin B} = {c|sin C} = 2R  (R: bán kính đường tròn ngoại tiếp)"
+     ]
+    ],
+    [
+     "f",
+     "Công thức diện tích",
+     [
+      "S = ½·ab·sin C = ½·bc·sin A = ½·ca·sin B",
+      "S = {abc|4R} = p·r  (r: bán kính đường tròn nội tiếp)",
+      "Heron: S = √( p(p − a)(p − b)(p − c) ),  p = {a + b + c|2}"
+     ]
+    ],
+    [
+     "g",
+     "Giải tam giác",
+     [
+      "Là tìm các yếu tố (cạnh, góc) chưa biết khi đã biết một số yếu tố: dùng định lí côsin, định lí sin và tổng ba góc bằng 180°."
+     ]
+    ]
+   ]
+  ],
+  [
+   3,
+   "Bài 7",
+   "Các khái niệm mở đầu",
+   46,
+   [
+    [
+     "d",
+     "Vectơ",
+     [
+      "Vectơ là đoạn thẳng có hướng (có điểm đầu, điểm cuối): <v>AB</v>, <v>a</v>. Độ dài: |<v>AB</v>| = AB.",
+      "<b>Vectơ–không</b> <v>0</v>: điểm đầu trùng điểm cuối, độ dài bằng 0."
+     ]
+    ],
+    [
+     "d",
+     "Cùng phương, cùng hướng, bằng nhau",
+     [
+      "<b>Giá</b> của vectơ là đường thẳng chứa vectơ đó. Hai vectơ <b>cùng phương</b> nếu giá song song hoặc trùng nhau; cùng phương thì hoặc cùng hướng hoặc ngược hướng.",
+      "<v>a</v> = <v>b</v> khi <b>cùng hướng và cùng độ dài</b>.",
+      "Vectơ–không cùng phương, cùng hướng với mọi vectơ."
+     ]
+    ],
+    [
+     "n",
+     "Mẹo",
+     [
+      "A, B, C thẳng hàng ⇔ <v>AB</v> và <v>AC</v> cùng phương."
+     ]
+    ]
+   ]
+  ],
+  [
+   3,
+   "Bài 8",
+   "Tổng và hiệu của hai vectơ",
+   51,
+   [
+    [
+     "f",
+     "Tổng hai vectơ",
+     [
+      "Quy tắc ba điểm: <v>AB</v> + <v>BC</v> = <v>AC</v>",
+      "Quy tắc hình bình hành (ABCD là hình bình hành): <v>AB</v> + <v>AD</v> = <v>AC</v>",
+      "Giao hoán, kết hợp; <v>a</v> + <v>0</v> = <v>a</v>."
+     ]
+    ],
+    [
+     "f",
+     "Hiệu hai vectơ",
+     [
+      "Vectơ đối của <v>a</v> là −<v>a</v>: <v>a</v> + (−<v>a</v>) = <v>0</v>",
+      "<v>a</v> − <v>b</v> = <v>a</v> + (−<v>b</v>)  ·  <v>OB</v> − <v>OA</v> = <v>AB</v>"
+     ]
+    ],
+    [
+     "f",
+     "Trung điểm, trọng tâm",
+     [
+      "I là trung điểm AB ⇔ <v>IA</v> + <v>IB</v> = <v>0</v>",
+      "G là trọng tâm tam giác ABC ⇔ <v>GA</v> + <v>GB</v> + <v>GC</v> = <v>0</v>"
+     ]
+    ]
+   ]
+  ],
+  [
+   3,
+   "Bài 9",
+   "Tích của một vectơ với một số",
+   55,
+   [
+    [
+     "d",
+     "Định nghĩa",
+     [
+      "k<v>a</v> (k ≠ 0, <v>a</v> ≠ <v>0</v>) cùng hướng <v>a</v> nếu k &gt; 0, ngược hướng nếu k &lt; 0; độ dài |k|·|<v>a</v>|.",
+      "0·<v>a</v> = k·<v>0</v> = <v>0</v>."
+     ]
+    ],
+    [
+     "f",
+     "Tính chất",
+     [
+      "k(<v>a</v> + <v>b</v>) = k<v>a</v> + k<v>b</v>  ·  (h + k)<v>a</v> = h<v>a</v> + k<v>a</v>",
+      "h(k<v>a</v>) = (hk)<v>a</v>  ·  1·<v>a</v> = <v>a</v>  ·  (−1)<v>a</v> = −<v>a</v>"
+     ]
+    ],
+    [
+     "f",
+     "Ứng dụng",
+     [
+      "<v>a</v>, <v>b</v> (<v>b</v> ≠ <v>0</v>) cùng phương ⇔ ∃k: <v>a</v> = k<v>b</v>.",
+      "A, B, C thẳng hàng ⇔ <v>AB</v> = k<v>AC</v>.",
+      "I trung điểm AB: <v>MA</v> + <v>MB</v> = 2<v>MI</v>  ·  G trọng tâm ABC: <v>MA</v> + <v>MB</v> + <v>MC</v> = 3<v>MG</v>"
+     ]
+    ],
+    [
+     "g",
+     "Phân tích vectơ",
+     [
+      "Mọi vectơ đều phân tích được duy nhất theo hai vectơ không cùng phương."
+     ]
+    ]
+   ]
+  ],
+  [
+   3,
+   "Bài 10",
+   "Vectơ trong mặt phẳng toạ độ",
+   60,
+   [
+    [
+     "d",
+     "Toạ độ của vectơ",
+     [
+      "<v>a</v> = x<v>i</v> + y<v>j</v> ⇔ <v>a</v> = (x; y). Hai vectơ bằng nhau ⇔ toạ độ tương ứng bằng nhau.",
+      "<v>AB</v> = (x<sub>B</sub> − x<sub>A</sub>; y<sub>B</sub> − y<sub>A</sub>)"
+     ]
+    ],
+    [
+     "f",
+     "Phép toán theo toạ độ (<v>a</v> = (x; y), <v>b</v> = (x′; y′))",
+     [
+      "<v>a</v> ± <v>b</v> = (x ± x′; y ± y′)  ·  k<v>a</v> = (kx; ky)",
+      "|<v>a</v>| = √(x² + y²)  ·  AB = √( (x<sub>B</sub> − x<sub>A</sub>)² + (y<sub>B</sub> − y<sub>A</sub>)² )"
+     ]
+    ],
+    [
+     "f",
+     "Trung điểm, trọng tâm",
+     [
+      "M trung điểm AB: M( {x<sub>A</sub> + x<sub>B</sub>|2} ; {y<sub>A</sub> + y<sub>B</sub>|2} )",
+      "G trọng tâm ABC: G( {x<sub>A</sub> + x<sub>B</sub> + x<sub>C</sub>|3} ; {y<sub>A</sub> + y<sub>B</sub> + y<sub>C</sub>|3} )"
+     ]
+    ],
+    [
+     "g",
+     "Cùng phương",
+     [
+      "<v>b</v> ≠ <v>0</v>: <v>a</v> cùng phương <v>b</v> ⇔ có k để x = kx′, y = ky′ (⇔ xy′ − x′y = 0)."
+     ]
+    ]
+   ]
+  ],
+  [
+   3,
+   "Bài 11",
+   "Tích vô hướng của hai vectơ",
+   66,
+   [
+    [
+     "f",
+     "Định nghĩa",
+     [
+      "<v>a</v>·<v>b</v> = |<v>a</v>|·|<v>b</v>|·cos(<v>a</v>, <v>b</v>), góc (<v>a</v>, <v>b</v>) ∈ [0°; 180°]",
+      "<v>a</v>² = |<v>a</v>|²  ·  <v>a</v> ⊥ <v>b</v> ⇔ <v>a</v>·<v>b</v> = 0"
+     ]
+    ],
+    [
+     "f",
+     "Tính chất",
+     [
+      "<v>a</v>·<v>b</v> = <v>b</v>·<v>a</v>  ·  <v>a</v>·(<v>b</v> + <v>c</v>) = <v>a</v>·<v>b</v> + <v>a</v>·<v>c</v>  ·  (k<v>a</v>)·<v>b</v> = k(<v>a</v>·<v>b</v>)",
+      "(<v>a</v> + <v>b</v>)² = <v>a</v>² + 2<v>a</v>·<v>b</v> + <v>b</v>²  ·  (<v>a</v> − <v>b</v>)² = <v>a</v>² − 2<v>a</v>·<v>b</v> + <v>b</v>²"
+     ]
+    ],
+    [
+     "f",
+     "Biểu thức toạ độ",
+     [
+      "<v>a</v>·<v>b</v> = xx′ + yy′  ·  <v>a</v> ⊥ <v>b</v> ⇔ xx′ + yy′ = 0",
+      "cos(<v>a</v>, <v>b</v>) = {xx′ + yy′|√(x² + y²)·√(x′² + y′²)}"
+     ]
+    ],
+    [
+     "g",
+     "Ứng dụng vật lí",
+     [
+      "Công của lực <v>F</v> làm vật dịch chuyển theo <v>d</v>: A = <v>F</v>·<v>d</v>."
+     ]
+    ]
+   ]
+  ],
+  [
+   4,
+   "Bài 12",
+   "Số gần đúng và sai số",
+   73,
+   [
+    [
+     "f",
+     "Sai số",
+     [
+      "Số gần đúng a của số đúng ā: <b>sai số tuyệt đối</b> Δ<sub>a</sub> = |a − ā|.",
+      "Nếu Δ<sub>a</sub> ≤ d thì ā ∈ [a − d; a + d], viết ā = a ± d (d: <b>độ chính xác</b>).",
+      "<b>Sai số tương đối</b> δ<sub>a</sub> = {Δ<sub>a</sub>|a} ≤ {d|a} (thường viết dạng %)."
+     ]
+    ],
+    [
+     "g",
+     "Quy tròn số gần đúng",
+     [
+      "Quy tròn đến một hàng: nhìn chữ số ngay sau hàng đó — nếu ≥ 5 thì tăng 1 đơn vị, nếu &lt; 5 thì giữ nguyên.",
+      "Quy tròn theo độ chính xác d: quy tròn đến hàng gần nhất <b>lớn hơn</b> d."
+     ]
+    ]
+   ]
+  ],
+  [
+   4,
+   "Bài 13",
+   "Các số đặc trưng đo xu thế trung tâm",
+   78,
+   [
+    [
+     "f",
+     "Số trung bình",
+     [
+      "x̄ = {x₁ + x₂ + … + xₙ|n}  (bảng tần số: x̄ = {n₁x₁ + … + n<sub>k</sub>x<sub>k</sub>|n})"
+     ]
+    ],
+    [
+     "d",
+     "Trung vị (M<sub>e</sub>)",
+     [
+      "Sắp xếp số liệu theo thứ tự không giảm: n lẻ → số ở chính giữa; n chẵn → trung bình cộng hai số ở giữa."
+     ]
+    ],
+    [
+     "d",
+     "Tứ phân vị",
+     [
+      "Q₂ = M<sub>e</sub>. Q₁ là trung vị nửa số liệu bên trái Q₂, Q₃ là trung vị nửa bên phải Q₂ (n lẻ thì bỏ M<sub>e</sub> khi chia nửa)."
+     ]
+    ],
+    [
+     "d",
+     "Mốt (M<sub>o</sub>)",
+     [
+      "Giá trị có tần số lớn nhất; một mẫu có thể có nhiều mốt."
+     ]
+    ],
+    [
+     "n",
+     "Ý nghĩa",
+     [
+      "Số trung bình bị ảnh hưởng bởi giá trị bất thường; trung vị ít bị ảnh hưởng; mốt cho biết giá trị xuất hiện nhiều nhất."
+     ]
+    ]
+   ]
+  ],
+  [
+   4,
+   "Bài 14",
+   "Các số đặc trưng đo độ phân tán",
+   84,
+   [
+    [
+     "f",
+     "Khoảng biến thiên và khoảng tứ phân vị",
+     [
+      "R = x<sub>max</sub> − x<sub>min</sub>  ·  Δ<sub>Q</sub> = Q₃ − Q₁"
+     ]
+    ],
+    [
+     "f",
+     "Phương sai, độ lệch chuẩn",
+     [
+      "s² = {1|n}[(x₁ − x̄)² + … + (xₙ − x̄)²] = {1|n}(x₁² + … + xₙ²) − x̄²",
+      "s = √(s²)"
+     ]
+    ],
+    [
+     "d",
+     "Giá trị ngoại lệ",
+     [
+      "x là giá trị ngoại lệ nếu x &gt; Q₃ + 1,5·Δ<sub>Q</sub> hoặc x &lt; Q₁ − 1,5·Δ<sub>Q</sub>."
+     ]
+    ],
+    [
+     "n",
+     "Ý nghĩa",
+     [
+      "R, Δ<sub>Q</sub>, s², s càng lớn thì số liệu càng phân tán. Δ<sub>Q</sub> ít chịu ảnh hưởng của giá trị ngoại lệ hơn R."
+     ]
+    ]
+   ]
+  ],
+  [
+   5,
+   "HĐ 1",
+   "Tìm hiểu một số kiến thức về tài chính",
+   91,
+   [
+    [
+     "f",
+     "Tiết kiệm (lãi kép)",
+     [
+      "T = A(1 + r%)<sup>n</sup>  (A: số tiền gửi, r%: lãi suất mỗi kì, n: số kì)"
+     ]
+    ],
+    [
+     "d",
+     "Đầu tư và thuế",
+     [
+      "So sánh tiết kiệm với đầu tư (vd: cổ phiếu) qua biểu đồ giá, tính lãi/lỗ.",
+      "<b>Thuế thu nhập cá nhân</b> tính theo biểu thuế luỹ tiến từng phần: thu nhập càng cao, phần vượt bậc chịu thuế suất càng lớn — chính là hàm số cho bởi nhiều công thức."
+     ]
+    ]
+   ]
+  ],
+  [
+   5,
+   "HĐ 2",
+   "Mạng xã hội: Lợi và hại",
+   96,
+   [
+    [
+     "g",
+     "Nội dung",
+     [
+      "Bài thực hành về lợi ích và tác hại của mạng xã hội, vận dụng các kiến thức thống kê (thu thập, xử lí số liệu, các số đặc trưng) để phân tích."
+     ]
+    ]
+   ]
+  ]
+ ]
+}

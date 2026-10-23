@@ -1,0 +1,801 @@
+{
+  "id": "english10-global-success",
+  "title": "Tiếng Anh 10 · Global Success",
+  "sub": "Tài liệu học tập chi tiết · 10 Units · 4 Reviews · từ vựng, ngữ pháp, kỹ năng và luyện tập",
+  "source": "Biên soạn theo mục lục và chủ đề của SGK Tiếng Anh 10 – Global Success (PDF người dùng cung cấp); phần diễn giải là tài liệu học tập, không phải bản chép nguyên văn SGK.",
+  "chapters": [
+    [
+      "Unit 1",
+      "Our Lives",
+      "#ef6a5b"
+    ],
+    [
+      "Unit 2",
+      "Our Environment",
+      "#16a085"
+    ],
+    [
+      "Unit 3",
+      "Our Lives",
+      "#8b5cf6"
+    ],
+    [
+      "Review 1",
+      "Units 1–3",
+      "#64748b"
+    ],
+    [
+      "Unit 4",
+      "Our Society",
+      "#0ea5a0"
+    ],
+    [
+      "Unit 5",
+      "Our Future",
+      "#e8920c"
+    ],
+    [
+      "Review 2",
+      "Units 4–5",
+      "#64748b"
+    ],
+    [
+      "Unit 6",
+      "Our Society",
+      "#db2777"
+    ],
+    [
+      "Unit 7",
+      "Our Society",
+      "#2563eb"
+    ],
+    [
+      "Unit 8",
+      "Our Future",
+      "#7c3aed"
+    ],
+    [
+      "Review 3",
+      "Units 6–8",
+      "#64748b"
+    ],
+    [
+      "Unit 9",
+      "Our Environment",
+      "#16a34a"
+    ],
+    [
+      "Unit 1",
+      "Our Lives",
+      "#0d9488"
+    ],
+    [
+      "Review 4",
+      "Units 9–10",
+      "#64748b"
+    ]
+  ],
+  "lessons": [
+    [
+      0,
+      "Unit 1",
+      "Family life",
+      8,
+      [
+        [
+          "d",
+          "Key vocabulary — family life",
+          [
+            "<b>breadwinner</b> (n): người trụ cột kiếm tiền trong gia đình. Example: My father is the breadwinner.",
+            "<b>household chores / housework</b>: việc nhà; <b>do the cooking</b>: nấu ăn; <b>do the laundry</b>: giặt quần áo; <b>do the washing-up</b>: rửa bát.",
+            "<b>clean the house</b>: dọn nhà; <b>take out the rubbish</b>: đổ rác; <b>shop for groceries</b>: mua thực phẩm; <b>lay the table</b>: bày bàn ăn; <b>feed the pet</b>: cho thú cưng ăn.",
+            "<b>homemaker</b> (n): người nội trợ; <b>equally</b> (adv): một cách bình đẳng; <b>responsibility</b> (n): trách nhiệm; <b>routine</b> (n): thói quen/lịch sinh hoạt; <b>bond</b> (n): sự gắn kết."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — present simple vs present continuous",
+          [
+            "<b>Present simple:</b> S + V(s/es). Dùng cho thói quen, lịch trình, sự thật. Signals: always, usually, often, sometimes, every day. Example: Lan usually does the cooking.",
+            "<b>Present continuous:</b> S + am/is/are + V-ing. Dùng cho việc đang diễn ra hiện tại hoặc tình huống tạm thời. Signals: now, right now, at the moment, today. Example: Mum is working late today.",
+            "<b>Phủ định / câu hỏi:</b> She doesn’t do the laundry. / Does she do the laundry? — Yes, she does. They aren’t cooking. / Are they cooking?",
+            "<b>Lưu ý:</b> động từ chỉ trạng thái thường không dùng ở tiếp diễn: know, understand, believe, like, love, want, need. So sánh: I understand you (không thường nói “I am understanding you”)."
+          ]
+        ],
+        [
+          "d",
+          "Reading — benefits of doing housework",
+          [
+            "Việc nhà không chỉ là trách nhiệm của người lớn. Trẻ em có thể học kỹ năng sống như giặt đồ, dọn dẹp và chăm sóc người khác.",
+            "Chia sẻ việc nhà giúp trẻ học trách nhiệm, kiên trì hoàn thành nhiệm vụ dù không thích, đồng thời tăng sự gắn bó giữa các thành viên gia đình.",
+            "Khi đọc, xác định ý chính, tìm từ khóa trong câu hỏi và đối chiếu thông tin với đoạn văn. Phân biệt thông tin được nêu trực tiếp với suy luận của người đọc."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — giving reasons and opinions",
+          [
+            "Mẫu nêu ý kiến: <b>I think… / In my opinion,… / From my point of view,…</b>",
+            "Nêu lý do: <b>because… / One reason is that… / This helps children to…</b>",
+            "Đồng ý/không đồng ý: <b>I agree with you. / That’s true, but… / I’m not sure I agree because…</b>",
+            "Ví dụ: Children should do housework because they learn to be responsible and independent."
+          ]
+        ],
+        [
+          "g",
+          "Writing — a paragraph about family routines",
+          [
+            "Viết một đoạn có câu chủ đề, các chi tiết hỗ trợ và câu kết. Có thể trình bày: ai làm việc gì, khi nào, gia đình chia sẻ công việc ra sao.",
+            "Dùng hiện tại đơn cho thói quen: My family usually has dinner together. My brother takes out the rubbish, while I wash the dishes.",
+            "Dùng từ nối: <b>first, also, besides, because, finally</b>. Kiểm tra chủ-vị, ngôi thứ ba số ít (does/cleans), chính tả và dấu câu."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — consonant blends /br/, /kr/, /tr/",
+          [
+            "Phát âm đủ cụm phụ âm đầu, không chèn nguyên âm giữa các phụ âm.",
+            "Luyện đọc: <b>bread, brother, bring</b> (/br/); <b>crash, cream, create</b> (/kr/); <b>tree, train, track</b> (/tr/)."
+          ]
+        ]
+      ]
+    ],
+    [
+      1,
+      "Unit 2",
+      "Humans and the environment",
+      18,
+      [
+        [
+          "d",
+          "Key vocabulary — green living",
+          [
+            "<b>environment</b>: môi trường; <b>environmental</b>: thuộc môi trường; <b>eco-friendly</b>: thân thiện môi trường; <b>green lifestyle</b>: lối sống xanh.",
+            "<b>reduce</b>: giảm; <b>reuse</b>: tái sử dụng; <b>recycle</b>: tái chế; <b>protect</b>: bảo vệ; <b>sort rubbish</b>: phân loại rác; <b>single-use plastic</b>: nhựa dùng một lần.",
+            "<b>organic</b>: hữu cơ; <b>public transport</b>: giao thông công cộng; <b>carbon footprint</b>: dấu chân carbon; <b>energy-saving</b>: tiết kiệm năng lượng; <b>low-energy light bulbs</b>: bóng đèn tiết kiệm điện."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — will and be going to",
+          [
+            "<b>will + V</b>: quyết định ngay lúc nói, lời hứa, đề nghị hoặc dự đoán/ý kiến. Example: I’ll turn off the lights. I think it will rain.",
+            "<b>be going to + V</b>: dự định đã có trước hoặc dự đoán có căn cứ hiện tại. Example: We are going to organise a clean-up this weekend. Look at those clouds; it’s going to rain.",
+            "Phủ định: won’t + V; am/is/are not going to + V. Câu hỏi: Will you recycle this bottle? / Are they going to plant trees?",
+            "Không dùng “will to” hoặc “going to” + V-ing: nói “will recycle”, “is going to recycle”."
+          ]
+        ],
+        [
+          "d",
+          "Reading and listening — environmental actions",
+          [
+            "Tìm hành động, mục đích và kết quả trong thông báo hoặc bài nói về sự kiện xanh. Chú ý ngày giờ, địa điểm, đồ cần mang và người tham gia.",
+            "Các hành động thực tế: tắt thiết bị khi không dùng, tiết kiệm nước, mang bình cá nhân, phân loại rác, dùng túi tái sử dụng, đi bộ/xe đạp khi phù hợp."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — suggesting ways to live green",
+          [
+            "Đề xuất: <b>We should… / Why don’t we…? / How about + V-ing…? / Let’s…</b>",
+            "Đáp lại: <b>That’s a good idea. / I agree. / I’m afraid that may be difficult because…</b>",
+            "Mẫu: We should use reusable bags to reduce plastic waste. We could cycle to school if it is safe."
+          ]
+        ],
+        [
+          "g",
+          "Writing — a proposal or paragraph about green habits",
+          [
+            "Mở đoạn nêu vấn đề; đưa ra 2–3 hành động cụ thể và lợi ích; kết đoạn kêu gọi thực hiện.",
+            "Dùng động từ chỉ hành động và mục đích: We can save electricity by switching off lights. This helps reduce energy use.",
+            "Tránh lời khuyên chung chung; nêu ai sẽ làm gì, ở đâu và khi nào."
+          ]
+        ]
+      ]
+    ],
+    [
+      2,
+      "Unit 3",
+      "Music",
+      28,
+      [
+        [
+          "d",
+          "Key vocabulary — music and shows",
+          [
+            "<b>talent</b>: tài năng; <b>talented</b>: có tài; <b>audition</b>: buổi thử giọng; <b>contestant</b>: thí sinh; <b>judge</b>: giám khảo; <b>audience</b>: khán giả.",
+            "<b>perform</b>: biểu diễn; <b>performance</b>: màn trình diễn; <b>musician</b>: nhạc sĩ/nhạc công; <b>instrument</b>: nhạc cụ; <b>melody</b>: giai điệu; <b>rhythm</b>: nhịp điệu; <b>lyrics</b>: lời bài hát.",
+            "<b>release an album</b>: phát hành album; <b>live show</b>: chương trình trực tiếp; <b>famous for</b>: nổi tiếng vì; <b>inspire</b>: truyền cảm hứng."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — compound sentences",
+          [
+            "Câu ghép có từ hai mệnh đề độc lập, thường nối bằng <b>and, but, or, so</b>.",
+            "<b>and</b> bổ sung: She sings and she plays the piano. <b>but</b> tương phản: He is young, but he is very talented.",
+            "<b>or</b> đưa lựa chọn/cảnh báo: We can go to the concert, or we can watch it online. <b>so</b> chỉ kết quả: The tickets sold out, so we watched the show online.",
+            "Đặt dấu phẩy trước liên từ khi nối hai mệnh đề độc lập. Không ghép hai câu chỉ bằng dấu phẩy."
+          ]
+        ],
+        [
+          "d",
+          "Reading — a music TV show",
+          [
+            "Khi đọc bài giới thiệu chương trình, tìm tên chương trình, thể loại, người tham gia, cách bình chọn và mục tiêu.",
+            "Đoán nghĩa từ mới qua định nghĩa, ví dụ, từ đồng nghĩa/trái nghĩa và ngữ cảnh; không cần dịch từng từ để hiểu ý chính."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — talking about a TV music show",
+          [
+            "Mô tả chương trình: <b>It is a talent show / music competition…</b> Nói về người dự thi, giám khảo, khán giả và cách chọn người thắng.",
+            "Nêu sở thích: <b>I’m keen on… / I’m a big fan of… / What I like most is…</b>",
+            "Mẫu: The show gives young singers a chance to perform. I like it because the contestants are creative."
+          ]
+        ],
+        [
+          "g",
+          "Writing — a short biography",
+          [
+            "Bố cục: giới thiệu người đó; thông tin nền; thành tựu nổi bật; ảnh hưởng/đánh giá.",
+            "Dùng quá khứ đơn cho sự kiện đã kết thúc: was born, started, won, released. Dùng hiện tại đơn cho sự thật còn đúng: She is a well-known singer.",
+            "Dùng mốc thời gian và trình tự: in 2018, later, after that, since then. Kiểm tra thì động từ và trình tự sự kiện."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — stress in words",
+          [
+            "Luyện nghe trọng âm từ trong từ vựng chủ đề âm nhạc. Đọc từ nhiều âm tiết theo từ điển/âm thanh mẫu; không đoán trọng âm chỉ từ cách viết."
+          ]
+        ]
+      ]
+    ],
+    [
+      3,
+      "Review 1",
+      "Units 1–3: Family life, environment, music",
+      38,
+      [
+        [
+          "d",
+          "Vocabulary review",
+          [
+            "Family life: breadwinner, homemaker, household chores, routine, responsibility, share housework.",
+            "Environment: eco-friendly, reduce, reuse, recycle, sort rubbish, save energy, public transport.",
+            "Music: contestant, judge, audience, perform, performance, instrument, melody, lyrics."
+          ]
+        ],
+        [
+          "f",
+          "Grammar review",
+          [
+            "Hiện tại đơn: thói quen/sự thật; hiện tại tiếp diễn: việc đang xảy ra/tạm thời.",
+            "will + V: quyết định ngay, lời hứa, dự đoán; be going to + V: dự định hoặc dự đoán có căn cứ.",
+            "Câu ghép: and (bổ sung), but (tương phản), or (lựa chọn), so (kết quả)."
+          ]
+        ],
+        [
+          "g",
+          "Self-check and practice",
+          [
+            "Viết 5 câu về việc nhà dùng hai thì hiện tại; viết 3 lời khuyên sống xanh; ghép 4 cặp câu bằng and/but/or/so.",
+            "Tự kiểm tra: phân biệt thói quen và hành động đang diễn ra; chọn đúng will/going to; nhận diện vai trò từ vựng trong ngữ cảnh."
+          ]
+        ]
+      ]
+    ],
+    [
+      4,
+      "Unit 4",
+      "For a better community",
+      40,
+      [
+        [
+          "d",
+          "Key vocabulary — volunteering",
+          [
+            "<b>volunteer</b> (n/v): tình nguyện/ người tình nguyện; <b>voluntary</b>: tự nguyện; <b>volunteering activity</b>: hoạt động tình nguyện.",
+            "<b>donate</b>: quyên góp; <b>donation</b>: khoản quyên góp; <b>charity</b>: từ thiện; <b>elderly people</b>: người cao tuổi; <b>orphanage</b>: trại trẻ mồ côi.",
+            "<b>disadvantaged</b>: có hoàn cảnh khó khăn; <b>remote area</b>: vùng xa; <b>community</b>: cộng đồng; <b>meaningful</b>: có ý nghĩa; <b>make a difference</b>: tạo ra thay đổi tích cực."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — past simple vs past continuous",
+          [
+            "<b>Past simple:</b> S + V2/ed; hành động đã hoàn tất tại thời điểm quá khứ. Example: We visited the nursing home yesterday.",
+            "<b>Past continuous:</b> S + was/were + V-ing; hành động đang diễn ra tại một thời điểm quá khứ hoặc làm nền cho hành động khác. Example: We were cleaning the park at 9 a.m.",
+            "Kết hợp thường gặp: <b>While + past continuous, past simple</b> hoặc <b>Past continuous when past simple</b>. Example: While we were collecting rubbish, it started to rain.",
+            "when thường giới thiệu sự kiện xen vào; while thường nhấn mạnh hành động đang diễn ra. Chú ý động từ bất quy tắc: go–went, see–saw, give–gave, make–made."
+          ]
+        ],
+        [
+          "d",
+          "Reading — benefits of volunteering",
+          [
+            "Tình nguyện giúp cộng đồng, hỗ trợ người cần giúp đỡ và cải thiện môi trường sống; người tham gia có thể rèn kỹ năng làm việc nhóm, giao tiếp và trách nhiệm.",
+            "Khi đọc, xác định ai tham gia, họ làm gì, giúp ai, kết quả ra sao và cảm xúc của người tham gia."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — describing volunteering activities",
+          [
+            "Nêu hoạt động: <b>We helped… / We took part in… / We raised money for…</b>",
+            "Nêu lợi ích: <b>It helps… / It gives us a chance to… / We can make a difference by…</b>",
+            "Mẫu: Last Sunday, our class planted trees in the local park. We were tired, but we felt proud because the place became cleaner."
+          ]
+        ],
+        [
+          "g",
+          "Writing — an application letter for volunteer work",
+          [
+            "Bố cục: lời chào; giới thiệu bản thân và vị trí muốn tham gia; lý do quan tâm; kỹ năng/kinh nghiệm phù hợp; thời gian có thể tham gia; lời cảm ơn và kết thư.",
+            "Cụm hữu ích: <b>I am writing to apply for… / I am interested in… / I believe I can… / I look forward to hearing from you.</b>",
+            "Giữ giọng lịch sự, thông tin cụ thể, dùng thì phù hợp và kiểm tra cách viết tên tổ chức."
+          ]
+        ]
+      ]
+    ],
+    [
+      5,
+      "Unit 5",
+      "Inventions",
+      50,
+      [
+        [
+          "d",
+          "Key vocabulary — inventions and technology",
+          [
+            "<b>invention</b>: phát minh; <b>invent</b>: phát minh; <b>inventor</b>: nhà phát minh; <b>device</b>: thiết bị; <b>appliance</b>: đồ dùng/thiết bị.",
+            "<b>smartphone</b>: điện thoại thông minh; <b>laptop</b>: máy tính xách tay; <b>digital camera</b>: máy ảnh kỹ thuật số; <b>robot</b>: rô-bốt; <b>3D printer</b>: máy in 3D; <b>portable</b>: dễ mang theo.",
+            "Chức năng: <b>be used for + V-ing</b>; <b>be used to + V</b> (được dùng để); <b>browse the Internet</b>, <b>send messages</b>, <b>store information</b>, <b>save time</b>."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — present perfect",
+          [
+            "Cấu trúc: <b>S + have/has + past participle (V3)</b>. Phủ định: haven’t/hasn’t + V3. Câu hỏi: Have/Has + S + V3?",
+            "Dùng cho trải nghiệm không nêu thời điểm cụ thể: I have used a 3D printer. Dùng cho việc bắt đầu trong quá khứ còn liên quan hiện tại: She has had this laptop for two years.",
+            "Từ thường gặp: <b>ever, never, already, yet, just, for, since</b>. For + khoảng thời gian; since + mốc bắt đầu. Example: I have known him since 2022.",
+            "Không dùng hiện tại hoàn thành với thời điểm quá khứ đã kết thúc như yesterday/last year; dùng quá khứ đơn: I bought it yesterday."
+          ]
+        ],
+        [
+          "d",
+          "Reading — inventions and their uses",
+          [
+            "Khi đọc về phát minh, tìm vấn đề ban đầu, cách thiết bị hoạt động, người sử dụng và lợi ích/hạn chế.",
+            "Phân biệt <b>invent</b> (tạo ra cái mới), <b>discover</b> (phát hiện điều đã tồn tại), <b>develop</b> (phát triển/cải tiến)."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — describing an invention",
+          [
+            "Nêu tên, thời điểm/nguồn gốc nếu biết, chức năng, cách dùng, lợi ích và hạn chế.",
+            "Mẫu: A smartphone is a portable device used for communication, taking photos and accessing information. It saves time, but it can distract users.",
+            "Hỏi đáp: <b>What is it used for? / How does it work? / What are its advantages?</b>"
+          ]
+        ],
+        [
+          "g",
+          "Writing — about an invention",
+          [
+            "Mở bài giới thiệu phát minh; thân bài mô tả chức năng, cách sử dụng, lợi ích và hạn chế; kết bài nêu đánh giá cá nhân.",
+            "Dùng bị động khi nhấn mạnh công dụng: It is used to store data. Dùng từ nối: <b>Firstly, moreover, however, as a result, in conclusion</b>."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — stress in three-syllable words",
+          [
+            "Với từ ba âm tiết, trọng âm cần học theo từng từ và nghe mẫu; hậu tố có thể ảnh hưởng trọng âm. Luyện đọc các từ trong bài và đánh dấu âm tiết nhấn mạnh."
+          ]
+        ]
+      ]
+    ],
+    [
+      6,
+      "Review 2",
+      "Units 4–5: Community and inventions",
+      60,
+      [
+        [
+          "d",
+          "Vocabulary review",
+          [
+            "Volunteering: volunteer, donate, charity, disadvantaged, community, meaningful, make a difference.",
+            "Inventions: invention, inventor, device, appliance, portable, function, store information, save time."
+          ]
+        ],
+        [
+          "f",
+          "Grammar review",
+          [
+            "Past simple: sự kiện hoàn tất trong quá khứ. Past continuous: hành động đang diễn ra tại một thời điểm quá khứ; kết hợp when/while.",
+            "Present perfect: have/has + V3 cho trải nghiệm, kết quả liên quan hiện tại, hoặc khoảng thời gian kéo dài đến nay. For + duration; since + starting point."
+          ]
+        ],
+        [
+          "g",
+          "Self-check and practice",
+          [
+            "Viết 4 câu kể hoạt động tình nguyện dùng past simple/past continuous; viết 5 câu về trải nghiệm dùng present perfect.",
+            "Sửa lỗi thường gặp: has went → has gone; since two years → for two years; yesterday + present perfect → past simple."
+          ]
+        ]
+      ]
+    ],
+    [
+      7,
+      "Unit 6",
+      "Gender equality",
+      62,
+      [
+        [
+          "d",
+          "Key vocabulary — gender and careers",
+          [
+            "<b>gender</b>: giới; <b>gender equality</b>: bình đẳng giới; <b>equal rights</b>: quyền bình đẳng; <b>opportunity</b>: cơ hội; <b>discrimination</b>: sự phân biệt đối xử.",
+            "<b>stereotype</b>: định kiến; <b>earn a living</b>: kiếm sống; <b>career choice</b>: lựa chọn nghề nghiệp; <b>homemaker</b>: người nội trợ; <b>male-dominated</b>: do nam giới chiếm ưu thế.",
+            "Cụm: <b>have equal access to</b> (tiếp cận bình đẳng); <b>break down barriers</b> (phá bỏ rào cản); <b>make decisions</b> (đưa ra quyết định)."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — comparative and superlative adjectives",
+          [
+            "So sánh hơn tính từ ngắn: <b>adj-er + than</b> (tall–taller); tính từ dài: <b>more + adj + than</b> (more important than).",
+            "So sánh nhất: <b>the + adj-est</b> (the tallest); <b>the most + adj</b> (the most important).",
+            "Bất quy tắc: good–better–the best; bad–worse–the worst; far–farther/further–the farthest/furthest. Một số quy tắc chính tả: big–bigger; happy–happier.",
+            "Cấu trúc bằng nhau: <b>as + adjective + as</b>; phủ định: <b>not as/so + adjective + as</b>. Example: Both candidates are as capable as each other."
+          ]
+        ],
+        [
+          "d",
+          "Reading — the first woman in space",
+          [
+            "Khi đọc tiểu sử hoặc bài thông tin, chú ý tên, thời gian, thành tựu và trở ngại; phân biệt sự kiện với quan điểm.",
+            "Bình đẳng giới có nghĩa là mọi người có quyền, trách nhiệm và cơ hội bình đẳng; không có nghĩa mọi người phải lựa chọn giống nhau."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — talking about career choices",
+          [
+            "Nêu nghề muốn làm, lý do, kỹ năng cần có và cách nghề đó đóng góp cho xã hội.",
+            "Mẫu: I would like to become an engineer because I enjoy solving problems. This career may be challenging, but it offers opportunities to create useful things.",
+            "Tránh định kiến: nghề nghiệp nên dựa trên sở thích, năng lực và cơ hội, không chỉ dựa vào giới tính."
+          ]
+        ],
+        [
+          "g",
+          "Writing — an opinion paragraph about gender equality",
+          [
+            "Câu chủ đề nêu quan điểm; đưa ra hai lý do và ví dụ; kết đoạn nhắc lại ý chính hoặc đề xuất.",
+            "Cụm: <b>Everyone should have the same opportunity to… / One reason is that… / For example… / Therefore…</b>",
+            "Dùng so sánh hơn/nhất đúng ngữ pháp; tránh khẳng định thiếu bằng chứng."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — stress in three-syllable adjectives and verbs",
+          [
+            "Luyện trọng âm các tính từ và động từ ba âm tiết trong bài. Trọng âm không thể xác định chắc chắn chỉ bằng số âm tiết; nghe mẫu và ghi dấu âm tiết nhấn."
+          ]
+        ]
+      ]
+    ],
+    [
+      8,
+      "Unit 7",
+      "Viet Nam and international organisations",
+      76,
+      [
+        [
+          "d",
+          "Key vocabulary — international organisations",
+          [
+            "<b>international organisation</b>: tổ chức quốc tế; <b>member state</b>: quốc gia thành viên; <b>cooperate</b>: hợp tác; <b>cooperation</b>: sự hợp tác; <b>peace</b>: hòa bình.",
+            "<b>development</b>: sự phát triển; <b>humanitarian</b>: nhân đạo; <b>human rights</b>: quyền con người; <b>provide assistance</b>: cung cấp hỗ trợ; <b>promote</b>: thúc đẩy; <b>participate in</b>: tham gia.",
+            "Tên viết tắt thường gặp trong chủ đề: <b>UN</b> (United Nations — Liên Hợp Quốc), <b>UNICEF</b> (Quỹ Nhi đồng Liên Hợp Quốc), <b>WHO</b> (Tổ chức Y tế Thế giới)."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — passive voice",
+          [
+            "Câu bị động nhấn mạnh hành động/đối tượng chịu tác động. Hiện tại đơn: <b>am/is/are + V3</b>. Example: English is used in international meetings.",
+            "Quá khứ đơn: <b>was/were + V3</b>. Example: The organisation was established in 1945.",
+            "Đổi chủ động sang bị động: tân ngữ lên làm chủ ngữ; dùng đúng thì của be + V3; có thể thêm <b>by + tác nhân</b> nếu cần.",
+            "Không phải câu nào cũng cần by-phrase. Chỉ dùng bị động với động từ có tân ngữ phù hợp."
+          ]
+        ],
+        [
+          "d",
+          "Reading — Viet Nam and international cooperation",
+          [
+            "Tìm tên tổ chức, mục tiêu, lĩnh vực hoạt động và ví dụ hợp tác. Phân biệt mục tiêu của tổ chức với một hoạt động cụ thể.",
+            "Từ nối nguyên nhân/kết quả giúp hiểu quan hệ ý: because, therefore, as a result, in order to."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — describing an organisation",
+          [
+            "Trình bày tên đầy đủ/viết tắt, mục tiêu, lĩnh vực làm việc và lợi ích đối với Việt Nam hoặc cộng đồng.",
+            "Mẫu: The UN works to maintain international peace and security. Its agencies also support development and humanitarian activities.",
+            "Hỏi: <b>What does it stand for? / What is its main aim? / How does it help people?</b>"
+          ]
+        ],
+        [
+          "g",
+          "Writing — a short introduction to an organisation",
+          [
+            "Đoạn giới thiệu nên gồm tên, năm thành lập nếu có nguồn, mục đích, hoạt động chính và tác động.",
+            "Dùng câu bị động khi nhấn mạnh tổ chức hoặc hoạt động; dùng hiện tại đơn cho mục tiêu và hoạt động thường xuyên.",
+            "Chỉ nêu số liệu/ngày tháng khi đã kiểm chứng từ tài liệu học hoặc nguồn đáng tin cậy."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — stress in words with more than three syllables",
+          [
+            "Từ dài thường có một âm tiết mang trọng âm chính và có thể có trọng âm phụ. Học theo từ cụ thể, nghe mẫu và dùng từ điển phiên âm khi cần."
+          ]
+        ]
+      ]
+    ],
+    [
+      9,
+      "Unit 8",
+      "New ways to learn",
+      86,
+      [
+        [
+          "d",
+          "Key vocabulary — learning and technology",
+          [
+            "<b>online learning</b>: học trực tuyến; <b>e-learning</b>: học điện tử; <b>learning app</b>: ứng dụng học tập; <b>virtual classroom</b>: lớp học ảo; <b>digital device</b>: thiết bị số.",
+            "<b>access information</b>: tiếp cận thông tin; <b>download materials</b>: tải tài liệu; <b>submit assignments</b>: nộp bài; <b>interactive</b>: có tính tương tác; <b>convenient</b>: thuận tiện.",
+            "<b>distraction</b>: sự xao nhãng; <b>reliable connection</b>: kết nối ổn định; <b>self-discipline</b>: tính tự giác; <b>independent learner</b>: người học độc lập."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — relative clauses with who, that, which",
+          [
+            "Mệnh đề quan hệ bổ nghĩa cho danh từ đứng trước. <b>who</b> dùng cho người: A teacher is someone who helps students learn.",
+            "<b>which</b> dùng cho vật/sự việc: An app is a tool which helps you practise vocabulary. <b>that</b> có thể dùng cho người/vật trong mệnh đề xác định: The website that I use is free.",
+            "Đại từ quan hệ làm chủ ngữ thường không được lược bỏ: students who study online. Khi làm tân ngữ trong mệnh đề xác định, có thể lược: The app (that) I downloaded is useful.",
+            "Mệnh đề xác định cần thiết để nhận diện danh từ; tránh dùng dấu phẩy quanh mệnh đề xác định."
+          ]
+        ],
+        [
+          "d",
+          "Reading — advantages and disadvantages of online learning",
+          [
+            "Ưu điểm: linh hoạt thời gian/địa điểm, truy cập tài liệu đa dạng, học theo tốc độ cá nhân. Hạn chế có thể gồm xao nhãng, ít tương tác trực tiếp, yêu cầu thiết bị và Internet.",
+            "Đánh giá cân bằng: lợi ích phụ thuộc vào mục tiêu, chất lượng tài liệu, khả năng tự quản lý và điều kiện học tập."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — discussing online learning",
+          [
+            "Nêu ưu điểm: <b>One advantage is that… / It allows students to…</b> Nêu hạn chế: <b>However… / A possible drawback is…</b>",
+            "Đưa ra đánh giá: <b>In my view… / It works best when…</b>",
+            "Mẫu: Online learning is convenient because students can review lessons. However, they need self-discipline and a reliable Internet connection."
+          ]
+        ],
+        [
+          "g",
+          "Writing — advantages and disadvantages paragraph",
+          [
+            "Mở đoạn giới thiệu chủ đề; thân đoạn nêu ưu điểm và nhược điểm với ví dụ; kết đoạn nêu đánh giá.",
+            "Từ nối: <b>firstly, moreover, however, on the other hand, for example, in conclusion</b>.",
+            "Dùng mệnh đề quan hệ để tránh lặp danh từ; kiểm tra who/which/that và dấu câu."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — sentence stress",
+          [
+            "Nhấn các từ mang thông tin chính như danh từ, động từ chính, tính từ, trạng từ; các từ chức năng thường nhẹ hơn.",
+            "Luyện câu: nhấn từ quan trọng để làm rõ ý đối lập, ví dụ “I use it for STUDY, not for GAMES.”"
+          ]
+        ]
+      ]
+    ],
+    [
+      10,
+      "Review 3",
+      "Units 6–8: Gender equality, international organisations, learning",
+      96,
+      [
+        [
+          "d",
+          "Vocabulary review",
+          [
+            "Gender equality: equal rights, opportunity, discrimination, stereotype, career choice.",
+            "International organisations: cooperate, development, humanitarian, member state, promote peace.",
+            "Learning: online learning, interactive, convenient, distraction, self-discipline, submit assignments."
+          ]
+        ],
+        [
+          "f",
+          "Grammar review",
+          [
+            "So sánh: taller than; more useful than; the best; as important as.",
+            "Bị động: be + V3; chọn be theo thì và chủ ngữ.",
+            "Mệnh đề quan hệ: who (người), which (vật), that (người/vật trong mệnh đề xác định)."
+          ]
+        ],
+        [
+          "g",
+          "Self-check and practice",
+          [
+            "Viết 3 câu so sánh nghề nghiệp; đổi 3 câu chủ động sang bị động; nối 4 cặp câu bằng who/which/that.",
+            "Kiểm tra: tính từ ngắn/dài, dạng bất quy tắc, dạng V3 và việc đại từ quan hệ có làm chủ ngữ hay tân ngữ."
+          ]
+        ]
+      ]
+    ],
+    [
+      11,
+      "Unit 9",
+      "Protecting the environment",
+      100,
+      [
+        [
+          "d",
+          "Key vocabulary — environmental protection",
+          [
+            "<b>pollution</b>: ô nhiễm; <b>pollute</b>: gây ô nhiễm; <b>pollutant</b>: chất gây ô nhiễm; <b>deforestation</b>: nạn phá rừng; <b>global warming</b>: nóng lên toàn cầu.",
+            "<b>climate change</b>: biến đổi khí hậu; <b>endangered species</b>: loài có nguy cơ tuyệt chủng; <b>habitat</b>: môi trường sống; <b>biodiversity</b>: đa dạng sinh học; <b>conservation</b>: bảo tồn.",
+            "<b>raise awareness</b>: nâng cao nhận thức; <b>take action</b>: hành động; <b>renewable energy</b>: năng lượng tái tạo; <b>fossil fuels</b>: nhiên liệu hóa thạch; <b>sustainable</b>: bền vững."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — should and the passive review",
+          [
+            "<b>should + V nguyên mẫu</b> dùng để khuyên/đề xuất: We should reduce plastic waste. Phủ định: shouldn’t + V.",
+            "Câu bị động: <b>be + V3</b>. Example: Many trees are planted every year. Waste should be sorted before recycling.",
+            "Sau should không thêm to và không chia động từ: should protect, không phải should to protect/should protects."
+          ]
+        ],
+        [
+          "d",
+          "Reading — environmental solutions",
+          [
+            "Xác định vấn đề, nguyên nhân, giải pháp và kết quả. Chú ý động từ chỉ tác động: reduce, prevent, protect, conserve, restore.",
+            "Ghép giải pháp với vấn đề: giảm nhiên liệu hóa thạch để giảm khí thải; bảo vệ sinh cảnh để hỗ trợ đa dạng sinh học; giảm và phân loại rác để hạn chế ô nhiễm."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — proposing environmental solutions",
+          [
+            "Mẫu: <b>We should… / We need to… / One effective way is to… / If we…, we can…</b>",
+            "Đề xuất cụ thể: tổ chức ngày dọn rác, trồng cây bản địa, giảm nhựa dùng một lần, tiết kiệm điện/nước, đi lại ít phát thải khi phù hợp.",
+            "Đánh giá đề xuất theo tính khả thi, chi phí, mức tác động và người chịu trách nhiệm."
+          ]
+        ],
+        [
+          "g",
+          "Writing — a report or paragraph on environmental problems",
+          [
+            "Nêu vấn đề; mô tả nguyên nhân/tác động; đề xuất giải pháp; kết luận bằng lời kêu gọi hoặc mục tiêu.",
+            "Từ nối: <b>because, therefore, as a result, in addition, however, to solve this problem</b>.",
+            "Dùng bị động khi cần tập trung vào hành động/kết quả; tránh đưa số liệu chưa được xác minh."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — rhythm",
+          [
+            "Tiếng Anh có nhịp dựa trên các từ được nhấn; nói theo cụm nghĩa thay vì tách từng từ. Luyện nghe và lặp lại câu mẫu, giữ từ chức năng nhẹ hơn."
+          ]
+        ]
+      ]
+    ],
+    [
+      12,
+      "Unit 10",
+      "Ecotourism",
+      110,
+      [
+        [
+          "d",
+          "Key vocabulary — ecotourism and travel",
+          [
+            "<b>ecotourism</b>: du lịch sinh thái; <b>ecotourist</b>: khách du lịch sinh thái; <b>tourist attraction</b>: điểm thu hút du lịch; <b>local community</b>: cộng đồng địa phương.",
+            "<b>natural habitat</b>: môi trường sống tự nhiên; <b>wildlife</b>: động vật hoang dã; <b>conservation</b>: bảo tồn; <b>responsible tourism</b>: du lịch có trách nhiệm.",
+            "<b>local products</b>: sản phẩm địa phương; <b>respect local customs</b>: tôn trọng phong tục địa phương; <b>leave no trace</b>: không để lại dấu vết/rác; <b>environmental impact</b>: tác động môi trường."
+          ]
+        ],
+        [
+          "f",
+          "Grammar — conditional sentences type 1",
+          [
+            "Dùng cho điều kiện có thể xảy ra ở hiện tại/tương lai. <b>If + present simple, will/can/may + V</b>. Example: If tourists respect local rules, they will help protect wildlife.",
+            "Có thể đảo mệnh đề: We will reduce waste if we bring reusable bottles. Khi mệnh đề if đứng đầu, thường có dấu phẩy giữa hai mệnh đề.",
+            "Không dùng will ngay sau if trong câu điều kiện loại 1 thông thường: If we recycle…, we will… (không phải If we will recycle…)."
+          ]
+        ],
+        [
+          "d",
+          "Reading — responsible ecotourism",
+          [
+            "Du lịch sinh thái có trách nhiệm hướng tới bảo vệ thiên nhiên, tôn trọng văn hóa địa phương và đem lại lợi ích cho cộng đồng.",
+            "Hành vi phù hợp: đi theo lối quy định, không cho động vật hoang dã ăn, giảm rác, mua sản phẩm địa phương có trách nhiệm, tuân thủ hướng dẫn."
+          ]
+        ],
+        [
+          "g",
+          "Speaking — how to become an ecotourist",
+          [
+            "Dùng câu điều kiện loại 1 để đưa lời khuyên: If you take a reusable bottle, you will create less plastic waste.",
+            "Đưa lời khuyên: <b>You should… / Remember to… / Don’t… / If possible, choose…</b>",
+            "Mẫu: If we stay on marked trails, we will protect plants and animal habitats. We should respect local customs and avoid disturbing wildlife."
+          ]
+        ],
+        [
+          "g",
+          "Writing — advice for an ecotourist",
+          [
+            "Viết lời khuyên theo nhóm: trước chuyến đi, trong chuyến đi, hỗ trợ cộng đồng địa phương và giảm tác động môi trường.",
+            "Dùng mệnh lệnh (Bring…, Don’t feed…), should/shouldn’t và câu điều kiện loại 1.",
+            "Sắp xếp lời khuyên theo trình tự; mỗi ý nêu hành động cụ thể và lý do ngắn gọn."
+          ]
+        ],
+        [
+          "f",
+          "Pronunciation — intonation",
+          [
+            "Ngữ điệu lên/xuống giúp thể hiện câu hỏi, thái độ và ý nghĩa. Câu hỏi Yes/No thường có xu hướng lên giọng; câu trần thuật thường xuống giọng, nhưng ngữ cảnh có thể làm thay đổi.",
+            "Luyện nghe câu mẫu trong bài và bắt chước cả nhịp, trọng âm, ngữ điệu thay vì chỉ đọc từ riêng lẻ."
+          ]
+        ]
+      ]
+    ],
+    [
+      13,
+      "Review 4",
+      "Units 9–10: Environment and ecotourism",
+      120,
+      [
+        [
+          "d",
+          "Vocabulary review",
+          [
+            "Environment: pollution, deforestation, climate change, endangered species, habitat, biodiversity, conservation, renewable energy.",
+            "Ecotourism: ecotourism, local community, wildlife, responsible tourism, local products, leave no trace."
+          ]
+        ],
+        [
+          "f",
+          "Grammar review",
+          [
+            "should/shouldn’t + V nguyên mẫu để khuyên. Bị động: be + V3.",
+            "Điều kiện loại 1: If + present simple, will/can/may + V; không dùng will trong mệnh đề if thông thường."
+          ]
+        ],
+        [
+          "g",
+          "Self-check and practice",
+          [
+            "Viết 5 lời khuyên bảo vệ môi trường; đổi 3 câu sang bị động; viết 4 câu điều kiện loại 1 về du lịch sinh thái.",
+            "Tự kiểm tra toàn sách: từ vựng theo chủ đề, dạng động từ, thì, cấu trúc câu và cách trình bày ý kiến có lý do."
+          ]
+        ]
+      ]
+    ]
+  ]
+}
