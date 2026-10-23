@@ -23,5 +23,10 @@
     "id": "vat-li-10-ket-noi-tri-thuc",
     "title": "Vật lí 10 – Kết nối tri thức với cuộc sống",
     "file": "books/vat-li-10-ket-noi-tri-thuc.json"
+  },
+  {
+    "id": "lich-su-10-ket-noi-tri-thuc",
+    "title": "Lịch sử 10 · Kết nối tri thức với cuộc sống",
+    "file": "books/lich-su-10-ket-noi-tri-thuc.json"
   }
 ]
