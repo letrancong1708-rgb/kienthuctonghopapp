@@ -25,6 +25,8 @@ jobs:
           java-version: 17
       - name: Install dependencies
         run: npm install
+      - name: Verify TypeScript and Capacitor
+        run: npx tsc --version && npx cap --version
       - name: Generate Android project
         run: npx cap add android
       - name: Copy bundled website into Android app
